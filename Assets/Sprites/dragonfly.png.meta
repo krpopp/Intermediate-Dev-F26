@@ -1,0 +1,1219 @@
+fileFormatVersion: 2
+guid: 96cf51d77b3f9466ea730b2f884d3a10
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6391584198531748257
+    second: dragonfly_0
+  - first:
+      213: -3372902191763313158
+    second: dragonfly_1
+  - first:
+      213: 354289251330987760
+    second: dragonfly_2
+  - first:
+      213: 9148604958884247753
+    second: dragonfly_3
+  - first:
+      213: 3250100490345251037
+    second: dragonfly_4
+  - first:
+      213: 5891146489079018609
+    second: dragonfly_5
+  - first:
+      213: 6789498918611562734
+    second: dragonfly_6
+  - first:
+      213: 7416739471170391052
+    second: dragonfly_7
+  - first:
+      213: -4453058915958585929
+    second: dragonfly_8
+  - first:
+      213: -6254685714225782329
+    second: dragonfly_9
+  - first:
+      213: 1033276657173577373
+    second: dragonfly_10
+  - first:
+      213: -2715418435246549381
+    second: dragonfly_11
+  - first:
+      213: -863757921121906107
+    second: dragonfly_12
+  - first:
+      213: 4831841744983197596
+    second: dragonfly_13
+  - first:
+      213: -7814227129781346560
+    second: dragonfly_14
+  - first:
+      213: 2396937719560987123
+    second: dragonfly_15
+  - first:
+      213: 7316225592680233784
+    second: dragonfly_16
+  - first:
+      213: -4295363428238016113
+    second: dragonfly_17
+  - first:
+      213: -4798005976569854033
+    second: dragonfly_18
+  - first:
+      213: 1429396522908875129
+    second: dragonfly_19
+  - first:
+      213: 2841983663316119697
+    second: dragonfly_20
+  - first:
+      213: 5298104326411439123
+    second: dragonfly_21
+  - first:
+      213: -5893256494243688420
+    second: dragonfly_22
+  - first:
+      213: 2575930887102567489
+    second: dragonfly_23
+  - first:
+      213: 3008647885344497833
+    second: dragonfly_24
+  - first:
+      213: 8519408795451977724
+    second: dragonfly_25
+  - first:
+      213: -7511655044389195477
+    second: dragonfly_26
+  - first:
+      213: 249784430792012130
+    second: dragonfly_27
+  - first:
+      213: -4790098260867180889
+    second: dragonfly_28
+  - first:
+      213: 6400609933926899056
+    second: dragonfly_29
+  - first:
+      213: 8014863499558521718
+    second: dragonfly_30
+  - first:
+      213: -2503299234338546770
+    second: dragonfly_31
+  - first:
+      213: -391756156898246055
+    second: dragonfly_32
+  - first:
+      213: 4021325779625181247
+    second: dragonfly_33
+  - first:
+      213: 440654581736847587
+    second: dragonfly_34
+  - first:
+      213: 8819555205685832610
+    second: dragonfly_35
+  - first:
+      213: -6486744232416673524
+    second: dragonfly_36
+  - first:
+      213: 6256743556381431974
+    second: dragonfly_37
+  - first:
+      213: -8902427323620782828
+    second: dragonfly_38
+  - first:
+      213: 3137297728332688855
+    second: dragonfly_39
+  - first:
+      213: 5277777257054794037
+    second: dragonfly_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dragonfly_0
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 547
+        width: 397
+        height: 591
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5ee38619088c47a0800000000000000
+      internalID: -6391584198531748257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonfly_1
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 609
+        width: 225
+        height: 522
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afdafc5b35b0131d0800000000000000
+      internalID: -3372902191763313158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonfly_2
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 920
+        width: 206
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f6925d6230bae400800000000000000
+      internalID: 354289251330987760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonfly_3
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 1072
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c83cac1dbf56fe70800000000000000
+      internalID: 9148604958884247753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonfly_4
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 588
+        width: 643
+        height: 543
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd00a5b1d2daa1d20800000000000000
+      internalID: 3250100490345251037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonfly_5
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 1007
+        width: 154
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1743859e48e81c150800000000000000
+      internalID: 5891146489079018609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonfly_6
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 963
+        width: 38
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee0bdbe4b45293e50800000000000000
+      internalID: 6789498918611562734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonfly_7
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 912
+        width: 171
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0ccab2e04d8de660800000000000000
+      internalID: 7416739471170391052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonfly_8
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 808
+        width: 34
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b5076e528e8332c0800000000000000
+      internalID: -4453058915958585929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonfly_9
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 739
+        width: 55
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c1acdd4b74e239a0800000000000000
+      internalID: -6254685714225782329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonfly_10
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 757
+        width: 52
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9eb88925afe65e00800000000000000
+      internalID: 1033276657173577373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonfly_11
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 668
+        width: 298
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b76159ee155e05ad0800000000000000
+      internalID: -2715418435246549381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonfly_12
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 620
+        width: 106
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54259934fb05304f0800000000000000
+      internalID: -863757921121906107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonfly_13
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 597
+        width: 322
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9780a487762e0340800000000000000
+      internalID: 4831841744983197596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonfly_14
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 554
+        width: 317
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00f9927b3d94e8390800000000000000
+      internalID: -7814227129781346560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonfly_15
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 508
+        width: 102
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f1ea2b0822a34120800000000000000
+      internalID: 2396937719560987123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonfly_16
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 504
+        width: 327
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83bb35cd964788560800000000000000
+      internalID: 7316225592680233784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonfly_17
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 369
+        width: 181
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f814ba648bdc364c0800000000000000
+      internalID: -4295363428238016113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonfly_18
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 511
+        width: 322
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa74a583cfe0a6db0800000000000000
+      internalID: -4798005976569854033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonfly_19
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 395
+        width: 68
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9797927709c36d310800000000000000
+      internalID: 1429396522908875129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonfly_20
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 376
+        width: 98
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 190bb659511c07720800000000000000
+      internalID: 2841983663316119697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonfly_21
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 227
+        width: 139
+        height: 272
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31cc6b670d5a68940800000000000000
+      internalID: 5298104326411439123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonfly_22
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 446
+        width: 323
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c10575a3172f63ea0800000000000000
+      internalID: -5893256494243688420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonfly_23
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 366
+        width: 154
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14494b37e7b8fb320800000000000000
+      internalID: 2575930887102567489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonfly_24
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 429
+        width: 292
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a0603caf4dd0c920800000000000000
+      internalID: 3008647885344497833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonfly_25
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 389
+        width: 302
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cffe04569250b3670800000000000000
+      internalID: 8519408795451977724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonfly_26
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 375
+        width: 283
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2139eb198d31c790800000000000000
+      internalID: -7511655044389195477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonfly_27
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 226
+        width: 175
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 261f7cbcd99677300800000000000000
+      internalID: 249784430792012130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonfly_28
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 209
+        width: 118
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a69bc1c207268db0800000000000000
+      internalID: -4790098260867180889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonfly_29
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 237
+        width: 96
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07d9c81b2d883d850800000000000000
+      internalID: 6400609933926899056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonfly_30
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 311
+        width: 315
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b0e6663e38a3f60800000000000000
+      internalID: 8014863499558521718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonfly_31
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 199
+        width: 147
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eab5eb20c9e724dd0800000000000000
+      internalID: -2503299234338546770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonfly_32
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 307
+        width: 252
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9520285d9d3309af0800000000000000
+      internalID: -391756156898246055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonfly_33
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 220
+        width: 282
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f300eac9d7e9ec730800000000000000
+      internalID: 4021325779625181247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonfly_34
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 250
+        width: 256
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e8b215e1058d1600800000000000000
+      internalID: 440654581736847587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonfly_35
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 203
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2abe9d74bba556a70800000000000000
+      internalID: 8819555205685832610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonfly_36
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 204
+        width: 254
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c018df52d747af5a0800000000000000
+      internalID: -6486744232416673524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonfly_37
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 90
+        width: 59
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a854d86d1b64d650800000000000000
+      internalID: 6256743556381431974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonfly_38
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 101
+        width: 212
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41d0ad82489347480800000000000000
+      internalID: -8902427323620782828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonfly_39
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 49
+        width: 179
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dde8eb69abe98b20800000000000000
+      internalID: 3137297728332688855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonfly_40
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 69
+        width: 121
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 531f262d37e6e3940800000000000000
+      internalID: 5277777257054794037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonfly_41
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 337
+        width: 316
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ce4a478de7f480db344b7031ad8981
+      internalID: -76755727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 8a58524c5d4084a7d935a5597f7345c5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      dragonfly_0: -6391584198531748257
+      dragonfly_1: -3372902191763313158
+      dragonfly_10: 1033276657173577373
+      dragonfly_11: -2715418435246549381
+      dragonfly_12: -863757921121906107
+      dragonfly_13: 4831841744983197596
+      dragonfly_14: -7814227129781346560
+      dragonfly_15: 2396937719560987123
+      dragonfly_16: 7316225592680233784
+      dragonfly_17: -4295363428238016113
+      dragonfly_18: -4798005976569854033
+      dragonfly_19: 1429396522908875129
+      dragonfly_2: 354289251330987760
+      dragonfly_20: 2841983663316119697
+      dragonfly_21: 5298104326411439123
+      dragonfly_22: -5893256494243688420
+      dragonfly_23: 2575930887102567489
+      dragonfly_24: 3008647885344497833
+      dragonfly_25: 8519408795451977724
+      dragonfly_26: -7511655044389195477
+      dragonfly_27: 249784430792012130
+      dragonfly_28: -4790098260867180889
+      dragonfly_29: 6400609933926899056
+      dragonfly_3: 9148604958884247753
+      dragonfly_30: 8014863499558521718
+      dragonfly_31: -2503299234338546770
+      dragonfly_32: -391756156898246055
+      dragonfly_33: 4021325779625181247
+      dragonfly_34: 440654581736847587
+      dragonfly_35: 8819555205685832610
+      dragonfly_36: -6486744232416673524
+      dragonfly_37: 6256743556381431974
+      dragonfly_38: -8902427323620782828
+      dragonfly_39: 3137297728332688855
+      dragonfly_4: 3250100490345251037
+      dragonfly_40: 5277777257054794037
+      dragonfly_41: -76755727
+      dragonfly_5: 5891146489079018609
+      dragonfly_6: 6789498918611562734
+      dragonfly_7: 7416739471170391052
+      dragonfly_8: -4453058915958585929
+      dragonfly_9: -6254685714225782329
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
