@@ -8,7 +8,8 @@ public class PlayerControl : MonoBehaviour
     bool playerDead = false;
     char playerID = 'f';
 
-    public float playerSpeed;
+    public float playerAcceleration;
+    Vector3 velocity = Vector3.zero;
     
     // Start is called once before the first execution of Update after the MonoBehaviour is create
     void Start()
@@ -19,24 +20,31 @@ public class PlayerControl : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        velocity *= 0.98f;
         Vector3 newPos = transform.position;
         if (Input.GetKey(KeyCode.W))
         {
-            newPos.y = newPos.y + playerSpeed * Time.deltaTime;
+            velocity.y += playerAcceleration;
+            //newPos.y = newPos.y + playerSpeed * Time.deltaTime;
         }
         if (Input.GetKey(KeyCode.S))
         {
-            newPos.y = newPos.y - playerSpeed * Time.deltaTime;
+            velocity.y -= playerAcceleration;
+            //newPos.y = newPos.y - playerSpeed * Time.deltaTime;
         }
-        if(Input.GetKey(KeyCode.A))
+        if(Input.GetKey(KeyCode.A) && newPos.x > 1)
         {
-            newPos.x = newPos.x - playerSpeed * Time.deltaTime;
+            velocity.x -= playerAcceleration;
+            //newPos.x = newPos.x - playerSpeed * Time.deltaTime;
         }
 
-        if (Input.GetKey(KeyCode.D))
+        if (Input.GetKey(KeyCode.D) && newPos.x < 10)
         {
-            newPos.x = newPos.x + playerSpeed * Time.deltaTime;
+            velocity.x += playerAcceleration;
+            //newPos.x = newPos.x + playerSpeed * Time.deltaTime;
         }
+
+        newPos += velocity * Time.deltaTime;
         transform.position = newPos;
     }
 }
