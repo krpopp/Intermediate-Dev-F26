@@ -22,7 +22,7 @@ public class PlayerControl : MonoBehaviour
     void Update()
     {
         //slow down every frame
-        velocity *= 0.98f;
+        velocity *= 0.95f;
         
         //get my player's current position
         //(I'm using vector 3 for teaching purposes; you can use vector2 if you want)
