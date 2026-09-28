@@ -1,4 +1,3 @@
-using System;
 using UnityEngine;
 using UnityEngine.InputSystem;
 using TMPro;
@@ -84,8 +83,47 @@ public class BallControl : MonoBehaviour
         }
     }
 
+    //SHORTER VERSION
     //Fires when a 2D collision starts
     void OnCollisionEnter2D(Collision2D other)
+    {
+        //get the position we touched the other thing at
+        Vector2 contactPos = other.GetContact(0).normal;
+        //check the tag of what we collided with
+        switch (other.gameObject.tag) {
+            //if it's one of the color tags
+            case "Red":
+            case "Blue":
+            case "Green":
+            case "Yellow":
+            case "Purple":
+                //call my SetColor function, passing along the color of the bumper
+                SetColor(other.gameObject.GetComponent<SpriteRenderer>().color);
+                break;
+            //if the tag is bumper
+            case "Bumper":
+                //set the velocity of the ball to jettison from that position
+                myBody.linearVelocity = contactPos * bumperMultiplier;
+                break;
+            //if the tag is reset
+            case "Reset":
+                //clear the ball's velocity, reset its position
+                //and set the  game to launch the ball again
+                myBody.linearVelocity = Vector2.zero;
+                transform.position = resetPosition;
+                startBlock.SetActive(false);
+                hasLaunched = false;
+                break;
+            //if the tag is wall
+            case "Wall":
+                myBody.linearVelocity = contactPos * wallMultiplier;
+                break;
+        }
+    }
+
+    //LONG VERSION
+    //Fires when a 2D collision starts
+    /*void OnCollisionEnter2D(Collision2D other)
     {
         //if the object we collided with is tagged a specific color
         //set the ball's color to that color
@@ -140,7 +178,7 @@ public class BallControl : MonoBehaviour
             Vector2 contactPos = other.GetContact(0).normal;
             myBody.linearVelocity = contactPos * wallMultiplier;
         }
-    }
+    }*/
 
     void OnTriggerEnter2D(Collider2D other)
     {
@@ -152,5 +190,11 @@ public class BallControl : MonoBehaviour
             //and turn on the blocking object
             startBlock.SetActive(true);
         }
+    }
+
+    void SetColor(Color col) {
+        myRenderer.color = col;
+        score += colorPoints;
+        scoreText.text = score.ToString();
     }
 }
