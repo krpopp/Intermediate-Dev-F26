@@ -1,0 +1,5954 @@
+fileFormatVersion: 2
+guid: 7aedbd2bcc99048de9b9b908a05713b7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4326513901486295621
+    second: cleff_line_0
+  - first:
+      213: -3882215199161659094
+    second: cleff_line_1
+  - first:
+      213: 885514505985329802
+    second: cleff_line_2
+  - first:
+      213: 4077938790654205116
+    second: cleff_line_3
+  - first:
+      213: 5807151399638661159
+    second: cleff_line_4
+  - first:
+      213: 8865466039674798324
+    second: cleff_line_5
+  - first:
+      213: -7028165347929069106
+    second: cleff_line_6
+  - first:
+      213: -6597610555351929771
+    second: cleff_line_7
+  - first:
+      213: 4352469340628259565
+    second: cleff_line_8
+  - first:
+      213: -8827769779080677112
+    second: cleff_line_9
+  - first:
+      213: 9181773564916115018
+    second: cleff_line_10
+  - first:
+      213: 4478454231707591426
+    second: cleff_line_11
+  - first:
+      213: 2032751360774607043
+    second: cleff_line_12
+  - first:
+      213: 6701423353665669414
+    second: cleff_line_13
+  - first:
+      213: 105485315687052792
+    second: cleff_line_14
+  - first:
+      213: 4077956949565060458
+    second: cleff_line_15
+  - first:
+      213: 1605681568495316376
+    second: cleff_line_16
+  - first:
+      213: 8968557768636144324
+    second: cleff_line_17
+  - first:
+      213: 7443216605667178673
+    second: cleff_line_18
+  - first:
+      213: 2983484503966610833
+    second: cleff_line_19
+  - first:
+      213: 9194695659721163744
+    second: cleff_line_20
+  - first:
+      213: -8197402160651541784
+    second: cleff_line_21
+  - first:
+      213: -5842493218046379594
+    second: cleff_line_22
+  - first:
+      213: 4660932061906856095
+    second: cleff_line_23
+  - first:
+      213: -4628944532768592446
+    second: cleff_line_24
+  - first:
+      213: 7295645551969725060
+    second: cleff_line_25
+  - first:
+      213: -3715785305776379013
+    second: cleff_line_26
+  - first:
+      213: -4200082309081189686
+    second: cleff_line_27
+  - first:
+      213: -2386250212043933104
+    second: cleff_line_28
+  - first:
+      213: 8548789593410193427
+    second: cleff_line_29
+  - first:
+      213: 4013700062827580397
+    second: cleff_line_30
+  - first:
+      213: -4410922776599707049
+    second: cleff_line_31
+  - first:
+      213: -7250906998516626747
+    second: cleff_line_32
+  - first:
+      213: 7052833197677346547
+    second: cleff_line_33
+  - first:
+      213: 6106090876571372817
+    second: cleff_line_34
+  - first:
+      213: -6624996322139520243
+    second: cleff_line_35
+  - first:
+      213: 7670971500384138315
+    second: cleff_line_36
+  - first:
+      213: 9197870685769294693
+    second: cleff_line_37
+  - first:
+      213: 6254613305844643260
+    second: cleff_line_38
+  - first:
+      213: 3799503290200518453
+    second: cleff_line_39
+  - first:
+      213: 5697833097435469623
+    second: cleff_line_40
+  - first:
+      213: -6028530875176739009
+    second: cleff_line_41
+  - first:
+      213: -726828342544101341
+    second: cleff_line_42
+  - first:
+      213: 7342504362523169652
+    second: cleff_line_43
+  - first:
+      213: -5191175422623786291
+    second: cleff_line_44
+  - first:
+      213: 8212339166965087675
+    second: cleff_line_45
+  - first:
+      213: 9154844655798581796
+    second: cleff_line_46
+  - first:
+      213: 4358026124275881098
+    second: cleff_line_47
+  - first:
+      213: -3718303418064308961
+    second: cleff_line_48
+  - first:
+      213: -1201552427348322122
+    second: cleff_line_49
+  - first:
+      213: -4621689695572248269
+    second: cleff_line_50
+  - first:
+      213: -6525092923866332123
+    second: cleff_line_51
+  - first:
+      213: -6223848521121363319
+    second: cleff_line_52
+  - first:
+      213: 1362366021267253808
+    second: cleff_line_53
+  - first:
+      213: -4082396648989150509
+    second: cleff_line_54
+  - first:
+      213: -5534408376142873569
+    second: cleff_line_55
+  - first:
+      213: -3477626044772225464
+    second: cleff_line_56
+  - first:
+      213: 957975546592577030
+    second: cleff_line_57
+  - first:
+      213: 1846776537748539503
+    second: cleff_line_58
+  - first:
+      213: 60705560848579498
+    second: cleff_line_59
+  - first:
+      213: -861382368140285370
+    second: cleff_line_60
+  - first:
+      213: -4877965407025889651
+    second: cleff_line_61
+  - first:
+      213: -3722733009216320933
+    second: cleff_line_62
+  - first:
+      213: 1817625357691487386
+    second: cleff_line_63
+  - first:
+      213: -5308025344405070673
+    second: cleff_line_64
+  - first:
+      213: -3057321759904511808
+    second: cleff_line_65
+  - first:
+      213: -3821191395910180975
+    second: cleff_line_66
+  - first:
+      213: -1970487312890025407
+    second: cleff_line_67
+  - first:
+      213: 4229124320511263607
+    second: cleff_line_68
+  - first:
+      213: -4548558315505066588
+    second: cleff_line_69
+  - first:
+      213: 6824296223145645221
+    second: cleff_line_70
+  - first:
+      213: 1803647349218644544
+    second: cleff_line_71
+  - first:
+      213: -7149785005600462918
+    second: cleff_line_72
+  - first:
+      213: 4513672068229293391
+    second: cleff_line_73
+  - first:
+      213: 4273457365196814143
+    second: cleff_line_74
+  - first:
+      213: -1642566335675905919
+    second: cleff_line_75
+  - first:
+      213: -186728843072480489
+    second: cleff_line_76
+  - first:
+      213: 1105362540107401006
+    second: cleff_line_77
+  - first:
+      213: -7314774070485890088
+    second: cleff_line_78
+  - first:
+      213: -35418360420484598
+    second: cleff_line_79
+  - first:
+      213: 4727294746799614552
+    second: cleff_line_80
+  - first:
+      213: -7111685334918534173
+    second: cleff_line_81
+  - first:
+      213: -5594102947983182911
+    second: cleff_line_82
+  - first:
+      213: 917778743417133540
+    second: cleff_line_83
+  - first:
+      213: -6309377832376596607
+    second: cleff_line_84
+  - first:
+      213: 6474579856530908801
+    second: cleff_line_85
+  - first:
+      213: 8322777274959826213
+    second: cleff_line_86
+  - first:
+      213: -1934863515560160721
+    second: cleff_line_87
+  - first:
+      213: 5914788109805197315
+    second: cleff_line_88
+  - first:
+      213: -6777505856173383672
+    second: cleff_line_89
+  - first:
+      213: -1988074197637516734
+    second: cleff_line_90
+  - first:
+      213: -6450391215608925496
+    second: cleff_line_91
+  - first:
+      213: -8820148496162816515
+    second: cleff_line_92
+  - first:
+      213: -4161877655669017245
+    second: cleff_line_93
+  - first:
+      213: -5721403226457077576
+    second: cleff_line_94
+  - first:
+      213: 4955673473049672698
+    second: cleff_line_95
+  - first:
+      213: -5596377895677848035
+    second: cleff_line_96
+  - first:
+      213: 1715865493494706657
+    second: cleff_line_97
+  - first:
+      213: -1701285937286537199
+    second: cleff_line_98
+  - first:
+      213: 8127111928126846443
+    second: cleff_line_99
+  - first:
+      213: -7417381344584195607
+    second: cleff_line_100
+  - first:
+      213: 5314080789652196829
+    second: cleff_line_101
+  - first:
+      213: 6689849887311630981
+    second: cleff_line_102
+  - first:
+      213: -8137214885477813673
+    second: cleff_line_103
+  - first:
+      213: 631902978170312931
+    second: cleff_line_104
+  - first:
+      213: 2844418227293943272
+    second: cleff_line_105
+  - first:
+      213: -2495744699407981167
+    second: cleff_line_106
+  - first:
+      213: 6867659238118874759
+    second: cleff_line_107
+  - first:
+      213: 2743509075311563105
+    second: cleff_line_108
+  - first:
+      213: 3066849431250570763
+    second: cleff_line_109
+  - first:
+      213: 547921244051378744
+    second: cleff_line_110
+  - first:
+      213: 2922812655752860646
+    second: cleff_line_111
+  - first:
+      213: 7946989757714000996
+    second: cleff_line_112
+  - first:
+      213: 2300622544603094655
+    second: cleff_line_113
+  - first:
+      213: 4474792353517239116
+    second: cleff_line_114
+  - first:
+      213: 29651488737228161
+    second: cleff_line_115
+  - first:
+      213: -1768176867851214828
+    second: cleff_line_116
+  - first:
+      213: 953618720623859392
+    second: cleff_line_117
+  - first:
+      213: -6334139089251305906
+    second: cleff_line_118
+  - first:
+      213: 6449878016611501860
+    second: cleff_line_119
+  - first:
+      213: -1249245858914776871
+    second: cleff_line_120
+  - first:
+      213: -6087827382118392014
+    second: cleff_line_121
+  - first:
+      213: -2119350893598185949
+    second: cleff_line_122
+  - first:
+      213: -6101602170502046116
+    second: cleff_line_123
+  - first:
+      213: -9017597403890316203
+    second: cleff_line_124
+  - first:
+      213: 6129315725259721188
+    second: cleff_line_125
+  - first:
+      213: -3411419664582718429
+    second: cleff_line_126
+  - first:
+      213: 3334492539884022519
+    second: cleff_line_127
+  - first:
+      213: 8277397122012215450
+    second: cleff_line_128
+  - first:
+      213: 3626457643689971064
+    second: cleff_line_129
+  - first:
+      213: 1627237219154490594
+    second: cleff_line_130
+  - first:
+      213: 3987169970012261333
+    second: cleff_line_131
+  - first:
+      213: 1615919029746912818
+    second: cleff_line_132
+  - first:
+      213: -2451309853587824916
+    second: cleff_line_133
+  - first:
+      213: -4752043803608327304
+    second: cleff_line_134
+  - first:
+      213: -5707735312633097116
+    second: cleff_line_135
+  - first:
+      213: 2693972609778695815
+    second: cleff_line_136
+  - first:
+      213: 4698700184876200068
+    second: cleff_line_137
+  - first:
+      213: -2229442744887315714
+    second: cleff_line_138
+  - first:
+      213: 8415690383132984542
+    second: cleff_line_139
+  - first:
+      213: -6464908010031891691
+    second: cleff_line_140
+  - first:
+      213: -2842978125255636581
+    second: cleff_line_141
+  - first:
+      213: 587269930624777787
+    second: cleff_line_142
+  - first:
+      213: -5198853826966380256
+    second: cleff_line_143
+  - first:
+      213: -9117573447852222306
+    second: cleff_line_144
+  - first:
+      213: 3642472288302183370
+    second: cleff_line_145
+  - first:
+      213: -2850623411357993428
+    second: cleff_line_146
+  - first:
+      213: -8968095379891295614
+    second: cleff_line_147
+  - first:
+      213: -4228087137412374995
+    second: cleff_line_148
+  - first:
+      213: 1495770998980330862
+    second: cleff_line_149
+  - first:
+      213: 7873208470658207312
+    second: cleff_line_150
+  - first:
+      213: 5424551825126804604
+    second: cleff_line_151
+  - first:
+      213: 4842115231295422869
+    second: cleff_line_152
+  - first:
+      213: 940528176708051654
+    second: cleff_line_153
+  - first:
+      213: -2348351691104220947
+    second: cleff_line_154
+  - first:
+      213: -2490251542253633419
+    second: cleff_line_155
+  - first:
+      213: -7089379096904235261
+    second: cleff_line_156
+  - first:
+      213: -321085678809457611
+    second: cleff_line_157
+  - first:
+      213: -4144993473689342631
+    second: cleff_line_158
+  - first:
+      213: -6819117162251242127
+    second: cleff_line_159
+  - first:
+      213: 2259229100062206964
+    second: cleff_line_160
+  - first:
+      213: 6820661647551358379
+    second: cleff_line_161
+  - first:
+      213: -7374594578930309977
+    second: cleff_line_162
+  - first:
+      213: 8101141180572017496
+    second: cleff_line_163
+  - first:
+      213: -3418378711463622458
+    second: cleff_line_164
+  - first:
+      213: 1988410325695186843
+    second: cleff_line_165
+  - first:
+      213: 3911046183954413978
+    second: cleff_line_166
+  - first:
+      213: -4733477763002866578
+    second: cleff_line_167
+  - first:
+      213: -2433439239994631680
+    second: cleff_line_168
+  - first:
+      213: -6576926075610444758
+    second: cleff_line_169
+  - first:
+      213: 906647688131065954
+    second: cleff_line_170
+  - first:
+      213: 7643788246941609176
+    second: cleff_line_171
+  - first:
+      213: 35869913567146087
+    second: cleff_line_172
+  - first:
+      213: -6171182598792101240
+    second: cleff_line_173
+  - first:
+      213: 4124843602524276319
+    second: cleff_line_174
+  - first:
+      213: -2022036558379353064
+    second: cleff_line_175
+  - first:
+      213: -1426894502883417769
+    second: cleff_line_176
+  - first:
+      213: 6577568313025724675
+    second: cleff_line_177
+  - first:
+      213: -2339171843882307070
+    second: cleff_line_178
+  - first:
+      213: -4342430070085314177
+    second: cleff_line_179
+  - first:
+      213: 7538667188054400240
+    second: cleff_line_180
+  - first:
+      213: 8010715092187128035
+    second: cleff_line_181
+  - first:
+      213: -4052242274914196369
+    second: cleff_line_182
+  - first:
+      213: -8673322373819767911
+    second: cleff_line_183
+  - first:
+      213: 1285494925549784781
+    second: cleff_line_184
+  - first:
+      213: -7851877224681392974
+    second: cleff_line_185
+  - first:
+      213: -3724848916854514544
+    second: cleff_line_186
+  - first:
+      213: -5166980665349019769
+    second: cleff_line_187
+  - first:
+      213: -7818040468869800518
+    second: cleff_line_188
+  - first:
+      213: -5947437741481300368
+    second: cleff_line_189
+  - first:
+      213: 5022949078262712290
+    second: cleff_line_190
+  - first:
+      213: 6397250531639671323
+    second: cleff_line_191
+  - first:
+      213: 7982756995689117124
+    second: cleff_line_192
+  - first:
+      213: -6418525268809480957
+    second: cleff_line_193
+  - first:
+      213: -5131554153908633202
+    second: cleff_line_194
+  - first:
+      213: 6677176949810261563
+    second: cleff_line_195
+  - first:
+      213: -3489888904307160286
+    second: cleff_line_196
+  - first:
+      213: -3708061739029625188
+    second: cleff_line_197
+  - first:
+      213: 2255903702868545319
+    second: cleff_line_198
+  - first:
+      213: -3784064444859881354
+    second: cleff_line_199
+  - first:
+      213: -1236197557761192422
+    second: cleff_line_200
+  - first:
+      213: -8638868803529542643
+    second: cleff_line_201
+  - first:
+      213: -2306667373136770889
+    second: cleff_line_202
+  - first:
+      213: 3058460094600511879
+    second: cleff_line_203
+  - first:
+      213: 8160235630978015073
+    second: cleff_line_204
+  - first:
+      213: -4014713585505820228
+    second: cleff_line_205
+  - first:
+      213: -7711288936087732333
+    second: cleff_line_206
+  - first:
+      213: -537387684518189131
+    second: cleff_line_207
+  - first:
+      213: 8384211862676847282
+    second: cleff_line_208
+  - first:
+      213: -1448555193251327764
+    second: cleff_line_209
+  - first:
+      213: 4761494885185108092
+    second: cleff_line_210
+  - first:
+      213: -4451419257734407901
+    second: cleff_line_211
+  - first:
+      213: 2500313635961645413
+    second: cleff_line_212
+  - first:
+      213: -5932157343776134994
+    second: cleff_line_213
+  - first:
+      213: 3734788220595411344
+    second: cleff_line_214
+  - first:
+      213: 4308802429756544750
+    second: cleff_line_215
+  - first:
+      213: -6950832441585191159
+    second: cleff_line_216
+  - first:
+      213: 3730771726810531549
+    second: cleff_line_217
+  - first:
+      213: 5012045300394944851
+    second: cleff_line_218
+  - first:
+      213: 6813327883255792469
+    second: cleff_line_219
+  - first:
+      213: -1682762048145669927
+    second: cleff_line_220
+  - first:
+      213: 4277629596311307912
+    second: cleff_line_221
+  - first:
+      213: -6003632824591124454
+    second: cleff_line_222
+  - first:
+      213: -953620435976145191
+    second: cleff_line_223
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cleff_line_0
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 728
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb5be1a878225f3c0800000000000000
+      internalID: -4326513901486295621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_1
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 728
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a21d85068d99f1ac0800000000000000
+      internalID: -3882215199161659094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_2
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 729
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8a06b460caf94c00800000000000000
+      internalID: 885514505985329802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_3
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 729
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbcdab869bfb79830800000000000000
+      internalID: 4077938790654205116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_4
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 729
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 728ff5c2e65279050800000000000000
+      internalID: 5807151399638661159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_5
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 713
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f00b1f4466780b70800000000000000
+      internalID: 8865466039674798324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_6
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 713
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec96af55ad0f67e90800000000000000
+      internalID: -7028165347929069106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_7
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 705
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55c61e1d7249074a0800000000000000
+      internalID: -6597610555351929771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_8
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 706
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de21def0ec3176c30800000000000000
+      internalID: 4352469340628259565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_9
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 706
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 809b7fe48267d7580800000000000000
+      internalID: -8827769779080677112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_10
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 706
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a46a5e009663c6f70800000000000000
+      internalID: 9181773564916115018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_11
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 707
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 203a6c7556aa62e30800000000000000
+      internalID: 4478454231707591426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_12
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 690
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c099a7b798c53c10800000000000000
+      internalID: 2032751360774607043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_13
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 692
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 629cfb4d80d300d50800000000000000
+      internalID: 6701423353665669414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_14
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 686
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f5fb82f552c67100800000000000000
+      internalID: 105485315687052792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_15
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 686
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a65392c5d30d79830800000000000000
+      internalID: 4077956949565060458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_16
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 682
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89d2e8811e6884610800000000000000
+      internalID: 1605681568495316376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_17
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 682
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ca902be5c7b67c70800000000000000
+      internalID: 8968557768636144324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_18
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 682
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b8b417211e9b4760800000000000000
+      internalID: 7443216605667178673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_19
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 684
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 195ffc36957776920800000000000000
+      internalID: 2983484503966610833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_20
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 683
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e38187acfe1a9f70800000000000000
+      internalID: 9194695659721163744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_21
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 665
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e26855aa2afc3e80800000000000000
+      internalID: -8197402160651541784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_22
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 659
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b977bf7f5b4beea0800000000000000
+      internalID: -5842493218046379594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_23
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 659
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f98ef200405fea040800000000000000
+      internalID: 4660932061906856095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_24
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 659
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cd675ff87fa2cfb0800000000000000
+      internalID: -4628944532768592446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_25
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 659
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48a605cb9f65f3560800000000000000
+      internalID: 7295645551969725060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_26
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 659
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7b259393f0ee6cc0800000000000000
+      internalID: -3715785305776379013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_27
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 666
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac230d3946f46b5c0800000000000000
+      internalID: -4200082309081189686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_28
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 632
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05abbe5331652eed0800000000000000
+      internalID: -2386250212043933104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_29
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 654
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31845ce77d663a670800000000000000
+      internalID: 8548789593410193427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_30
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 653
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deb0dcf01f683b730800000000000000
+      internalID: 4013700062827580397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_31
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 634
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7524811da1149c2c0800000000000000
+      internalID: -4410922776599707049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_32
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 655
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cac506708a9f5b90800000000000000
+      internalID: -7250906998516626747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_33
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 655
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fef3affc62b0e160800000000000000
+      internalID: 7052833197677346547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_34
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 636
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11d4a400d413db450800000000000000
+      internalID: 6106090876571372817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_35
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 636
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d03ca9c12f84f04a0800000000000000
+      internalID: -6624996322139520243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_36
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 637
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b44ba82efe3c47a60800000000000000
+      internalID: 7670971500384138315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_37
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 638
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 563e14308a665af70800000000000000
+      internalID: 9197870685769294693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_38
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 637
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb53d4ec9a9dcc650800000000000000
+      internalID: 6254613305844643260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_39
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 640
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53f645f9c1c8ab430800000000000000
+      internalID: 3799503290200518453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_40
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 642
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 737da128305c21f40800000000000000
+      internalID: 5697833097435469623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_41
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 601
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3f9d9b0c1b565ca0800000000000000
+      internalID: -6028530875176739009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_42
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 618
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32019fd2979c9e5f0800000000000000
+      internalID: -726828342544101341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_43
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 601
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47313f1c0d0d5e560800000000000000
+      internalID: 7342504362523169652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_44
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 618
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dca55c7057d35f7b0800000000000000
+      internalID: -5191175422623786291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_45
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 613
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbd3bf526f618f170800000000000000
+      internalID: 8212339166965087675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_46
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 613
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42af1c2c5ba8c0f70800000000000000
+      internalID: 9154844655798581796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_47
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 613
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8416539ba1da7c30800000000000000
+      internalID: 4358026124275881098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_48
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 616
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f15f72fddbee56cc0800000000000000
+      internalID: -3718303418064308961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_49
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 616
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b815e4fe6a335fe0800000000000000
+      internalID: -1201552427348322122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_50
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 616
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 339355965b57cdfb0800000000000000
+      internalID: -4621689695572248269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_51
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 615
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5244882ae863275a0800000000000000
+      internalID: -6525092923866332123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_52
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 568
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98a88b2deb270a9a0800000000000000
+      internalID: -6223848521121363319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_53
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 589
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03a62bf9da818e210800000000000000
+      internalID: 1362366021267253808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_54
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 568
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d2b1c090e96857c0800000000000000
+      internalID: -4082396648989150509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_55
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 589
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1cbe0a87e4d133b0800000000000000
+      internalID: -5534408376142873569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_56
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 590
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84e64bb998dfcbfc0800000000000000
+      internalID: -3477626044772225464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_57
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 590
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 606492e1fa96b4d00800000000000000
+      internalID: 957975546592577030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_58
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 590
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f680708f97111a910800000000000000
+      internalID: 1846776537748539503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_59
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 591
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aab354ec26ba7d000800000000000000
+      internalID: 60705560848579498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_60
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 592
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64aa63bcc41cb04f0800000000000000
+      internalID: -861382368140285370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_61
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 593
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ef39f8e4cfd4cb0800000000000000
+      internalID: -4877965407025889651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_62
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 595
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5a4a005d02365cc0800000000000000
+      internalID: -3722733009216320933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_63
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 567
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9481f3f1a0893910800000000000000
+      internalID: 1817625357691487386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_64
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 566
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fac17f7821b1656b0800000000000000
+      internalID: -5308025344405070673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_65
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 566
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c8c1d8ce063295d0800000000000000
+      internalID: -3057321759904511808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_66
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 567
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19f9ef3cba668fac0800000000000000
+      internalID: -3821191395910180975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_67
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 567
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14aa6c0aa3c67a4e0800000000000000
+      internalID: -1970487312890025407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_68
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 567
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7730a03a92ed0ba30800000000000000
+      internalID: 4229124320511263607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_69
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 569
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4addb24bf4640e0c0800000000000000
+      internalID: -4548558315505066588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_70
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 560
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a4d2ae1245c4be50800000000000000
+      internalID: 6824296223145645221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_71
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 560
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 042904e35b7d70910800000000000000
+      internalID: 1803647349218644544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_72
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 542
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab725c82b6cd6cc90800000000000000
+      internalID: -7149785005600462918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_73
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 545
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f45e863e4d8c3ae30800000000000000
+      internalID: 4513672068229293391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_74
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 538
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f373557f4de5e4b30800000000000000
+      internalID: 4273457365196814143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_75
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 538
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 188c502de9e6439e0800000000000000
+      internalID: -1642566335675905919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_76
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 471
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71b58574b1b986df0800000000000000
+      internalID: -186728843072480489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_77
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 472
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e27002faf59075f00800000000000000
+      internalID: 1105362540107401006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_78
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 471
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8db437cfcb3bc7a90800000000000000
+      internalID: -7314774070485890088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_79
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 490
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a3c98503b228ff0800000000000000
+      internalID: -35418360420484598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_80
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 491
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85aaf83a689ba9140800000000000000
+      internalID: 4727294746799614552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_81
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 487
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eb63d10ed73e4d90800000000000000
+      internalID: -7111685334918534173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_82
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 488
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c33f74f101cd52b0800000000000000
+      internalID: -5594102947983182911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_83
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 486
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e958cf87ea9cbc00800000000000000
+      internalID: 917778743417133540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_84
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 444
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 187087b3a469078a0800000000000000
+      internalID: -6309377832376596607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_85
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 446
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 186ac6263145ad950800000000000000
+      internalID: 6474579856530908801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_86
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 445
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52d8caae5d1708370800000000000000
+      internalID: 8322777274959826213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_87
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 466
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f225c2a42ebf525e0800000000000000
+      internalID: -1934863515560160721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_88
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 468
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30894aea27c851250800000000000000
+      internalID: 5914788109805197315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_89
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 462
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 800e7a3255671f1a0800000000000000
+      internalID: -6777505856173383672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_90
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 462
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24232beec01f864e0800000000000000
+      internalID: -1988074197637516734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_91
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 461
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c274537d5b9b76a0800000000000000
+      internalID: -6450391215608925496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_92
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 445
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfdf4048ca9889580800000000000000
+      internalID: -8820148496162816515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_93
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 445
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 365763f925a0e36c0800000000000000
+      internalID: -4161877655669017245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_94
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 440
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b8804e241e7990b0800000000000000
+      internalID: -5721403226457077576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_95
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 441
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afbb3f774c616c440800000000000000
+      internalID: 4955673473049672698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_96
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 436
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d16164b64fba552b0800000000000000
+      internalID: -5596377895677848035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_97
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 432
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e13a16439affc710800000000000000
+      internalID: 1715865493494706657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_98
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 432
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1102bae2471d368e0800000000000000
+      internalID: -1701285937286537199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_99
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 403
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be537d54d3d49c070800000000000000
+      internalID: 8127111928126846443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_100
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 402
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e1237057fa201990800000000000000
+      internalID: -7417381344584195607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_101
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 415
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddd42fea2586fb940800000000000000
+      internalID: 5314080789652196829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_102
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 417
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58295e5370f17dc50800000000000000
+      internalID: 6689849887311630981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_103
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 418
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 752f21aac2ec21f80800000000000000
+      internalID: -8137214885477813673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_104
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 413
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e85a522968f4c800800000000000000
+      internalID: 631902978170312931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_105
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 415
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e5708eae47697720800000000000000
+      internalID: 2844418227293943272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_106
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 408
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19529bd3b655d5dd0800000000000000
+      internalID: -2495744699407981167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_107
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 406
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78e518ec0b3de4f50800000000000000
+      internalID: 6867659238118874759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_108
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 403
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1619100e7f6e21620800000000000000
+      internalID: 2743509075311563105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_109
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 378
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0e8c411f43af8a20800000000000000
+      internalID: 3066849431250570763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_110
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 378
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 832929ce77b9a9700800000000000000
+      internalID: 547921244051378744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_111
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 387
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e35a2bef9aef8820800000000000000
+      internalID: 2922812655752860646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_112
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 389
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46ce5366411694e60800000000000000
+      internalID: 7946989757714000996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_113
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 392
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7e925dd3047def10800000000000000
+      internalID: 2300622544603094655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_114
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 387
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4b7703efe7a91e30800000000000000
+      internalID: 4474792353517239116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_115
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 389
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1857e353fd7596000800000000000000
+      internalID: 29651488737228161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_116
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 378
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4106aa3c18c2677e0800000000000000
+      internalID: -1768176867851214828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_117
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 376
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c692f58c2feb3d00800000000000000
+      internalID: 953618720623859392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_118
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 376
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e46724bde0e9818a0800000000000000
+      internalID: -6334139089251305906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_119
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 354
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 427cab812e1928950800000000000000
+      internalID: 6449878016611501860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_120
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 353
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d8c1469289c9aee0800000000000000
+      internalID: -1249245858914776871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_121
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 359
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23fdfea2041b38ba0800000000000000
+      internalID: -6087827382118392014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_122
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 361
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3266ca0579d8692e0800000000000000
+      internalID: -2119350893598185949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_123
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 362
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5e19725721c25ba0800000000000000
+      internalID: -6101602170502046116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_124
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 361
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55c02ad30fe0bd280800000000000000
+      internalID: -9017597403890316203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_125
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 364
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e942587d24bf0550800000000000000
+      internalID: 6129315725259721188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_126
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 353
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32cc3c8b3e338a0d0800000000000000
+      internalID: -3411419664582718429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_127
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 352
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fa2af15c4f764e20800000000000000
+      internalID: 3334492539884022519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_128
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 350
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a98f062b3d83fd270800000000000000
+      internalID: 8277397122012215450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_129
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 328
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87d042d5304c35230800000000000000
+      internalID: 3626457643689971064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_130
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 329
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e47ffc11ab159610800000000000000
+      internalID: 1627237219154490594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_131
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 331
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5db8fa976f5455730800000000000000
+      internalID: 3987169970012261333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_132
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 334
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23ecbd9cbc5ec6610800000000000000
+      internalID: 1615919029746912818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_133
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 336
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cee9b7efca23bfdd0800000000000000
+      internalID: -2451309853587824916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_134
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 334
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87b54d886595d0eb0800000000000000
+      internalID: -4752043803608327304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_135
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 339
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4641d8a59fc0ac0b0800000000000000
+      internalID: -5707735312633097116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_136
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 325
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78ebd78b0d9e26520800000000000000
+      internalID: 2693972609778695815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_137
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 324
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 480bb916ce2253140800000000000000
+      internalID: 4698700184876200068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_138
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 323
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef27be7b2ad6f01e0800000000000000
+      internalID: -2229442744887315714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_139
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 305
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed40052b0d98ac470800000000000000
+      internalID: 8415690383132984542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_140
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 307
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51bb87cda680846a0800000000000000
+      internalID: -6464908010031891691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_141
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 308
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b998ee33576bb88d0800000000000000
+      internalID: -2842978125255636581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_142
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 307
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3e7822f3e6662800800000000000000
+      internalID: 587269930624777787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_143
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 310
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0212d743df5f9d7b0800000000000000
+      internalID: -5198853826966380256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_144
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 298
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e981c33914fd77180800000000000000
+      internalID: -9117573447852222306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_145
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 297
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac3b4706f39ac8230800000000000000
+      internalID: 3642472288302183370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_146
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 295
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2638915c1d8078d0800000000000000
+      internalID: -2850623411357993428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_147
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 278
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28ae1c954ccea8380800000000000000
+      internalID: -8968095379891295614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_148
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 281
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2e132f5621d255c0800000000000000
+      internalID: -4228087137412374995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_149
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 282
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e65cd837ccb02c410800000000000000
+      internalID: 1495770998980330862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_150
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 211
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05ecd28d361434d60800000000000000
+      internalID: 7873208470658207312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_151
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 213
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7c416af421e74b40800000000000000
+      internalID: 5424551825126804604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_152
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 211
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5914fd2f526a23340800000000000000
+      internalID: 4842115231295422869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_153
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 231
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c2ede1c46d6d0d00800000000000000
+      internalID: 940528176708051654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_154
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 233
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de88b0c349af86fd0800000000000000
+      internalID: -2348351691104220947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_155
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 223
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5708a9e8a69d07dd0800000000000000
+      internalID: -2490251542253633419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_156
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 224
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30781f2c5477d9d90800000000000000
+      internalID: -7089379096904235261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_157
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 222
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53cd81cb6464b8bf0800000000000000
+      internalID: -321085678809457611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_158
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 184
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95d2f6495660a76c0800000000000000
+      internalID: -4144993473689342631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_159
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 182
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 175be36f111ad51a0800000000000000
+      internalID: -6819117162251242127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_160
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 182
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fbee6785e46a5f10800000000000000
+      internalID: 2259229100062206964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_161
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 182
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba5ed6b81abd7ae50800000000000000
+      internalID: 6820661647551358379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_162
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 203
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a466508d4d28a990800000000000000
+      internalID: -7374594578930309977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_163
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 208
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 853a8476bf80d6070800000000000000
+      internalID: 8101141180572017496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_164
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 194
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c8047b5caa7f80d0800000000000000
+      internalID: -3418378711463622458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_165
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 194
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b97c7caf7a0489b10800000000000000
+      internalID: 1988410325695186843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_166
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 194
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a99ffbe58c3d64630800000000000000
+      internalID: 3911046183954413978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_167
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 185
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e64e008bd0f4f4eb0800000000000000
+      internalID: -4733477763002866578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_168
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 174
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00a9f9577efaa3ed0800000000000000
+      internalID: -2433439239994631680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_169
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 179
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2c4c3d84901ab4a0800000000000000
+      internalID: -6576926075610444758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_170
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 164
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2683b7bc44f059c00800000000000000
+      internalID: 906647688131065954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_171
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 165
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dca24d79e0341a60800000000000000
+      internalID: 7643788246941609176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_172
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 165
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7603b401f7f6f7000800000000000000
+      internalID: 35869913567146087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_173
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 133
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 882ccea6f1e8b5aa0800000000000000
+      internalID: -6171182598792101240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_174
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 133
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f568082f6636e3930800000000000000
+      internalID: 4124843602524276319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_175
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 151
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81cf1fe967840f3e0800000000000000
+      internalID: -2022036558379353064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_176
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 152
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7512da77207a23ce0800000000000000
+      internalID: -1426894502883417769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_177
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 153
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30183cff787384b50800000000000000
+      internalID: 6577568313025724675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_178
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 145
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 202bcc8f997998fd0800000000000000
+      internalID: -2339171843882307070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_179
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 150
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f791792cbd69cb3c0800000000000000
+      internalID: -4342430070085314177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_180
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 135
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fc10efadd9be9860800000000000000
+      internalID: 7538667188054400240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_181
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 134
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e0acaa0fe6cb2f60800000000000000
+      internalID: 8010715092187128035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_182
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 136
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f642be3ee1b83c7c0800000000000000
+      internalID: -4052242274914196369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_183
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 105
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9936606114b22a780800000000000000
+      internalID: -8673322373819767911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_184
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 105
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dce46fde2def6d110800000000000000
+      internalID: 1285494925549784781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_185
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 121
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b4b2e2e347880390800000000000000
+      internalID: -7851877224681392974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_186
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 122
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09c53ec25adae4cc0800000000000000
+      internalID: -3724848916854514544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_187
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 124
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7876f80f5723b48b0800000000000000
+      internalID: -5166980665349019769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_188
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 117
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd13658d9db08390800000000000000
+      internalID: -7818040468869800518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_189
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 119
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07e614f82e4767da0800000000000000
+      internalID: -5947437741481300368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_190
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 104
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e789bee29915b540800000000000000
+      internalID: 5022949078262712290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_191
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 105
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1abf85e67997c850800000000000000
+      internalID: 6397250531639671323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_192
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 105
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c57050713378ce60800000000000000
+      internalID: 7982756995689117124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_193
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 75
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3050eba5641dce6a0800000000000000
+      internalID: -6418525268809480957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_194
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 75
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8188966fae09c8b0800000000000000
+      internalID: -5131554153908633202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_195
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 92
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3eedd30f091aac50800000000000000
+      internalID: 6677176949810261563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_196
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 92
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22bc131288c619fc0800000000000000
+      internalID: -3489888904307160286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_197
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 94
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c960ce79e715a8cc0800000000000000
+      internalID: -3708061739029625188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_198
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 86
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72fc7f827749e4f10800000000000000
+      internalID: 2255903702868545319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_199
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 90
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 678e0fcaf6d4c7bc0800000000000000
+      internalID: -3784064444859881354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_200
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 75
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1e4071fed428dee0800000000000000
+      internalID: -1236197557761192422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_201
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 76
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d04fa6808929c1880800000000000000
+      internalID: -8638868803529542643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_202
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 77
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b80331de321dffd0800000000000000
+      internalID: -2306667373136770889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_203
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 48
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7810f5a6045d17a20800000000000000
+      internalID: 3058460094600511879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_204
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 47
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16f1ee3521bfe3170800000000000000
+      internalID: 8160235630978015073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_205
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 63
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb1adfcc34fd848c0800000000000000
+      internalID: -4014713585505820228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_206
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 64
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39f371c919ffbf490800000000000000
+      internalID: -7711288936087732333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_207
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 66
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b7af958fb0da88f0800000000000000
+      internalID: -537387684518189131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_208
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 58
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ba38748444ba5470800000000000000
+      internalID: 8384211862676847282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_209
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 63
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce015bcf9b2b5ebe0800000000000000
+      internalID: -1448555193251327764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_210
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 46
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c783c4fde5a341240800000000000000
+      internalID: 4761494885185108092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_211
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 48
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 329586c05c16932c0800000000000000
+      internalID: -4451419257734407901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_212
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 47
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5692f823106e2b220800000000000000
+      internalID: 2500313635961645413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_213
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 34
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea8af74635ebcada0800000000000000
+      internalID: -5932157343776134994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_214
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 34
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09917ef4912a4d330800000000000000
+      internalID: 3734788220595411344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_215
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 33
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee69af81bf0fbcb30800000000000000
+      internalID: 4308802429756544750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_216
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 29
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 907bd02b8bea98f90800000000000000
+      internalID: -6950832441585191159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_217
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 34
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd6cc9a7e1d56c330800000000000000
+      internalID: 3730771726810531549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_218
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 16
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 359e43055ac5e8540800000000000000
+      internalID: 5012045300394944851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_219
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 18
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 553c9bb7c9dcd8e50800000000000000
+      internalID: 6813327883255792469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_220
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 19
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d0c4c635d0a5a8e0800000000000000
+      internalID: -1682762048145669927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_221
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 5
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88645d834713d5b30800000000000000
+      internalID: 4277629596311307912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_222
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 5
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a18fe5031cfceaca0800000000000000
+      internalID: -6003632824591124454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleff_line_223
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 6
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d6b617144f04c2f0800000000000000
+      internalID: -953620435976145191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      cleff_line_0: -4326513901486295621
+      cleff_line_1: -3882215199161659094
+      cleff_line_10: 9181773564916115018
+      cleff_line_100: -7417381344584195607
+      cleff_line_101: 5314080789652196829
+      cleff_line_102: 6689849887311630981
+      cleff_line_103: -8137214885477813673
+      cleff_line_104: 631902978170312931
+      cleff_line_105: 2844418227293943272
+      cleff_line_106: -2495744699407981167
+      cleff_line_107: 6867659238118874759
+      cleff_line_108: 2743509075311563105
+      cleff_line_109: 3066849431250570763
+      cleff_line_11: 4478454231707591426
+      cleff_line_110: 547921244051378744
+      cleff_line_111: 2922812655752860646
+      cleff_line_112: 7946989757714000996
+      cleff_line_113: 2300622544603094655
+      cleff_line_114: 4474792353517239116
+      cleff_line_115: 29651488737228161
+      cleff_line_116: -1768176867851214828
+      cleff_line_117: 953618720623859392
+      cleff_line_118: -6334139089251305906
+      cleff_line_119: 6449878016611501860
+      cleff_line_12: 2032751360774607043
+      cleff_line_120: -1249245858914776871
+      cleff_line_121: -6087827382118392014
+      cleff_line_122: -2119350893598185949
+      cleff_line_123: -6101602170502046116
+      cleff_line_124: -9017597403890316203
+      cleff_line_125: 6129315725259721188
+      cleff_line_126: -3411419664582718429
+      cleff_line_127: 3334492539884022519
+      cleff_line_128: 8277397122012215450
+      cleff_line_129: 3626457643689971064
+      cleff_line_13: 6701423353665669414
+      cleff_line_130: 1627237219154490594
+      cleff_line_131: 3987169970012261333
+      cleff_line_132: 1615919029746912818
+      cleff_line_133: -2451309853587824916
+      cleff_line_134: -4752043803608327304
+      cleff_line_135: -5707735312633097116
+      cleff_line_136: 2693972609778695815
+      cleff_line_137: 4698700184876200068
+      cleff_line_138: -2229442744887315714
+      cleff_line_139: 8415690383132984542
+      cleff_line_14: 105485315687052792
+      cleff_line_140: -6464908010031891691
+      cleff_line_141: -2842978125255636581
+      cleff_line_142: 587269930624777787
+      cleff_line_143: -5198853826966380256
+      cleff_line_144: -9117573447852222306
+      cleff_line_145: 3642472288302183370
+      cleff_line_146: -2850623411357993428
+      cleff_line_147: -8968095379891295614
+      cleff_line_148: -4228087137412374995
+      cleff_line_149: 1495770998980330862
+      cleff_line_15: 4077956949565060458
+      cleff_line_150: 7873208470658207312
+      cleff_line_151: 5424551825126804604
+      cleff_line_152: 4842115231295422869
+      cleff_line_153: 940528176708051654
+      cleff_line_154: -2348351691104220947
+      cleff_line_155: -2490251542253633419
+      cleff_line_156: -7089379096904235261
+      cleff_line_157: -321085678809457611
+      cleff_line_158: -4144993473689342631
+      cleff_line_159: -6819117162251242127
+      cleff_line_16: 1605681568495316376
+      cleff_line_160: 2259229100062206964
+      cleff_line_161: 6820661647551358379
+      cleff_line_162: -7374594578930309977
+      cleff_line_163: 8101141180572017496
+      cleff_line_164: -3418378711463622458
+      cleff_line_165: 1988410325695186843
+      cleff_line_166: 3911046183954413978
+      cleff_line_167: -4733477763002866578
+      cleff_line_168: -2433439239994631680
+      cleff_line_169: -6576926075610444758
+      cleff_line_17: 8968557768636144324
+      cleff_line_170: 906647688131065954
+      cleff_line_171: 7643788246941609176
+      cleff_line_172: 35869913567146087
+      cleff_line_173: -6171182598792101240
+      cleff_line_174: 4124843602524276319
+      cleff_line_175: -2022036558379353064
+      cleff_line_176: -1426894502883417769
+      cleff_line_177: 6577568313025724675
+      cleff_line_178: -2339171843882307070
+      cleff_line_179: -4342430070085314177
+      cleff_line_18: 7443216605667178673
+      cleff_line_180: 7538667188054400240
+      cleff_line_181: 8010715092187128035
+      cleff_line_182: -4052242274914196369
+      cleff_line_183: -8673322373819767911
+      cleff_line_184: 1285494925549784781
+      cleff_line_185: -7851877224681392974
+      cleff_line_186: -3724848916854514544
+      cleff_line_187: -5166980665349019769
+      cleff_line_188: -7818040468869800518
+      cleff_line_189: -5947437741481300368
+      cleff_line_19: 2983484503966610833
+      cleff_line_190: 5022949078262712290
+      cleff_line_191: 6397250531639671323
+      cleff_line_192: 7982756995689117124
+      cleff_line_193: -6418525268809480957
+      cleff_line_194: -5131554153908633202
+      cleff_line_195: 6677176949810261563
+      cleff_line_196: -3489888904307160286
+      cleff_line_197: -3708061739029625188
+      cleff_line_198: 2255903702868545319
+      cleff_line_199: -3784064444859881354
+      cleff_line_2: 885514505985329802
+      cleff_line_20: 9194695659721163744
+      cleff_line_200: -1236197557761192422
+      cleff_line_201: -8638868803529542643
+      cleff_line_202: -2306667373136770889
+      cleff_line_203: 3058460094600511879
+      cleff_line_204: 8160235630978015073
+      cleff_line_205: -4014713585505820228
+      cleff_line_206: -7711288936087732333
+      cleff_line_207: -537387684518189131
+      cleff_line_208: 8384211862676847282
+      cleff_line_209: -1448555193251327764
+      cleff_line_21: -8197402160651541784
+      cleff_line_210: 4761494885185108092
+      cleff_line_211: -4451419257734407901
+      cleff_line_212: 2500313635961645413
+      cleff_line_213: -5932157343776134994
+      cleff_line_214: 3734788220595411344
+      cleff_line_215: 4308802429756544750
+      cleff_line_216: -6950832441585191159
+      cleff_line_217: 3730771726810531549
+      cleff_line_218: 5012045300394944851
+      cleff_line_219: 6813327883255792469
+      cleff_line_22: -5842493218046379594
+      cleff_line_220: -1682762048145669927
+      cleff_line_221: 4277629596311307912
+      cleff_line_222: -6003632824591124454
+      cleff_line_223: -953620435976145191
+      cleff_line_23: 4660932061906856095
+      cleff_line_24: -4628944532768592446
+      cleff_line_25: 7295645551969725060
+      cleff_line_26: -3715785305776379013
+      cleff_line_27: -4200082309081189686
+      cleff_line_28: -2386250212043933104
+      cleff_line_29: 8548789593410193427
+      cleff_line_3: 4077938790654205116
+      cleff_line_30: 4013700062827580397
+      cleff_line_31: -4410922776599707049
+      cleff_line_32: -7250906998516626747
+      cleff_line_33: 7052833197677346547
+      cleff_line_34: 6106090876571372817
+      cleff_line_35: -6624996322139520243
+      cleff_line_36: 7670971500384138315
+      cleff_line_37: 9197870685769294693
+      cleff_line_38: 6254613305844643260
+      cleff_line_39: 3799503290200518453
+      cleff_line_4: 5807151399638661159
+      cleff_line_40: 5697833097435469623
+      cleff_line_41: -6028530875176739009
+      cleff_line_42: -726828342544101341
+      cleff_line_43: 7342504362523169652
+      cleff_line_44: -5191175422623786291
+      cleff_line_45: 8212339166965087675
+      cleff_line_46: 9154844655798581796
+      cleff_line_47: 4358026124275881098
+      cleff_line_48: -3718303418064308961
+      cleff_line_49: -1201552427348322122
+      cleff_line_5: 8865466039674798324
+      cleff_line_50: -4621689695572248269
+      cleff_line_51: -6525092923866332123
+      cleff_line_52: -6223848521121363319
+      cleff_line_53: 1362366021267253808
+      cleff_line_54: -4082396648989150509
+      cleff_line_55: -5534408376142873569
+      cleff_line_56: -3477626044772225464
+      cleff_line_57: 957975546592577030
+      cleff_line_58: 1846776537748539503
+      cleff_line_59: 60705560848579498
+      cleff_line_6: -7028165347929069106
+      cleff_line_60: -861382368140285370
+      cleff_line_61: -4877965407025889651
+      cleff_line_62: -3722733009216320933
+      cleff_line_63: 1817625357691487386
+      cleff_line_64: -5308025344405070673
+      cleff_line_65: -3057321759904511808
+      cleff_line_66: -3821191395910180975
+      cleff_line_67: -1970487312890025407
+      cleff_line_68: 4229124320511263607
+      cleff_line_69: -4548558315505066588
+      cleff_line_7: -6597610555351929771
+      cleff_line_70: 6824296223145645221
+      cleff_line_71: 1803647349218644544
+      cleff_line_72: -7149785005600462918
+      cleff_line_73: 4513672068229293391
+      cleff_line_74: 4273457365196814143
+      cleff_line_75: -1642566335675905919
+      cleff_line_76: -186728843072480489
+      cleff_line_77: 1105362540107401006
+      cleff_line_78: -7314774070485890088
+      cleff_line_79: -35418360420484598
+      cleff_line_8: 4352469340628259565
+      cleff_line_80: 4727294746799614552
+      cleff_line_81: -7111685334918534173
+      cleff_line_82: -5594102947983182911
+      cleff_line_83: 917778743417133540
+      cleff_line_84: -6309377832376596607
+      cleff_line_85: 6474579856530908801
+      cleff_line_86: 8322777274959826213
+      cleff_line_87: -1934863515560160721
+      cleff_line_88: 5914788109805197315
+      cleff_line_89: -6777505856173383672
+      cleff_line_9: -8827769779080677112
+      cleff_line_90: -1988074197637516734
+      cleff_line_91: -6450391215608925496
+      cleff_line_92: -8820148496162816515
+      cleff_line_93: -4161877655669017245
+      cleff_line_94: -5721403226457077576
+      cleff_line_95: 4955673473049672698
+      cleff_line_96: -5596377895677848035
+      cleff_line_97: 1715865493494706657
+      cleff_line_98: -1701285937286537199
+      cleff_line_99: 8127111928126846443
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

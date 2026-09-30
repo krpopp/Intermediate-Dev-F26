@@ -1,0 +1,1768 @@
+fileFormatVersion: 2
+guid: 515c0d3848ae947939ed675c15c5a18c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2408991836313283690
+    second: berries_0
+  - first:
+      213: 619551235208903269
+    second: berries_1
+  - first:
+      213: -3147416883600750571
+    second: berries_2
+  - first:
+      213: -6718223789762634725
+    second: berries_3
+  - first:
+      213: -7136846464794289902
+    second: berries_4
+  - first:
+      213: -5034953160489944403
+    second: berries_5
+  - first:
+      213: 6891053907433876317
+    second: berries_6
+  - first:
+      213: -865544923933325548
+    second: berries_7
+  - first:
+      213: 5253046480288960806
+    second: berries_8
+  - first:
+      213: 193012697265526318
+    second: berries_9
+  - first:
+      213: -8261821571297728982
+    second: berries_10
+  - first:
+      213: -3726136182130504840
+    second: berries_11
+  - first:
+      213: 4867605247601124903
+    second: berries_12
+  - first:
+      213: -7072635850459452476
+    second: berries_13
+  - first:
+      213: -3601367760306134739
+    second: berries_14
+  - first:
+      213: -7193818270495178922
+    second: berries_15
+  - first:
+      213: -266698591184448403
+    second: berries_16
+  - first:
+      213: 1668651038965192491
+    second: berries_17
+  - first:
+      213: -7728176001329996143
+    second: berries_18
+  - first:
+      213: -5844444849567782506
+    second: berries_19
+  - first:
+      213: 6954427889754166536
+    second: berries_20
+  - first:
+      213: -93480543657836181
+    second: berries_21
+  - first:
+      213: -8797856192970030052
+    second: berries_22
+  - first:
+      213: -7979457838023752544
+    second: berries_23
+  - first:
+      213: -2515801771708145803
+    second: berries_24
+  - first:
+      213: 3071215144562878945
+    second: berries_25
+  - first:
+      213: -346776137993680199
+    second: berries_26
+  - first:
+      213: -7619676860005991543
+    second: berries_27
+  - first:
+      213: 4144264417335607743
+    second: berries_28
+  - first:
+      213: -6294480692909410372
+    second: berries_29
+  - first:
+      213: 1769750789349397774
+    second: berries_30
+  - first:
+      213: 1088413496307814399
+    second: berries_31
+  - first:
+      213: -7959413734582140513
+    second: berries_32
+  - first:
+      213: 3429672120966492875
+    second: berries_33
+  - first:
+      213: -2964735365840683942
+    second: berries_34
+  - first:
+      213: -2010060850562744615
+    second: berries_35
+  - first:
+      213: -8309249043845397396
+    second: berries_36
+  - first:
+      213: 1362115046362295590
+    second: berries_37
+  - first:
+      213: -4627241413546674690
+    second: berries_38
+  - first:
+      213: -8508065650633718939
+    second: berries_39
+  - first:
+      213: -8401962276766100359
+    second: berries_40
+  - first:
+      213: 6340803038004660607
+    second: berries_41
+  - first:
+      213: 6746680657519301312
+    second: berries_42
+  - first:
+      213: -2380861739029643253
+    second: berries_43
+  - first:
+      213: 6144466298153158845
+    second: berries_44
+  - first:
+      213: -2693176218182909611
+    second: berries_45
+  - first:
+      213: 8951496818588749927
+    second: berries_46
+  - first:
+      213: -8114733288369583463
+    second: berries_47
+  - first:
+      213: -6583849888338110896
+    second: berries_48
+  - first:
+      213: 3929185164894676526
+    second: berries_49
+  - first:
+      213: -1613248333237832191
+    second: berries_50
+  - first:
+      213: 7796783889302979962
+    second: berries_51
+  - first:
+      213: 414211033107210420
+    second: berries_52
+  - first:
+      213: 1401169846954821359
+    second: berries_53
+  - first:
+      213: -8700624667727903551
+    second: berries_54
+  - first:
+      213: -764524076192783092
+    second: berries_55
+  - first:
+      213: -1283838524742955602
+    second: berries_56
+  - first:
+      213: -5957198117258888129
+    second: berries_57
+  - first:
+      213: 3160259886119736755
+    second: berries_58
+  - first:
+      213: -7376579823734129623
+    second: berries_59
+  - first:
+      213: -3809861703219576442
+    second: berries_60
+  - first:
+      213: -1955721087328700756
+    second: berries_61
+  - first:
+      213: -1719660227602168065
+    second: berries_62
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: berries_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 458
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6ce44ecf457e6120800000000000000
+      internalID: 2408991836313283690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berries_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 457
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56af7ced096199800800000000000000
+      internalID: 619551235208903269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berries_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 457
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51809e425012254d0800000000000000
+      internalID: -3147416883600750571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berries_3
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 457
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1c9e91de0314c2a0800000000000000
+      internalID: -6718223789762634725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berries_4
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 456
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2191f61f3f3d4fc90800000000000000
+      internalID: -7136846464794289902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berries_5
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 456
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daa3440e6c0402ab0800000000000000
+      internalID: -5034953160489944403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berries_6
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 459
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5be9a8b401f1af50800000000000000
+      internalID: 6891053907433876317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berries_7
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 459
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 417cfcf3a77fcf3f0800000000000000
+      internalID: -865544923933325548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berries_8
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 392
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6215d3621f196e840800000000000000
+      internalID: 5253046480288960806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berries_9
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 391
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e26d6a98608bda200800000000000000
+      internalID: 193012697265526318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berries_10
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 393
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a26a32dcd0d185d80800000000000000
+      internalID: -8261821571297728982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berries_11
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 393
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87b816f52ea1a4cc0800000000000000
+      internalID: -3726136182130504840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berries_12
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 393
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 726a71ade253d8340800000000000000
+      internalID: 4867605247601124903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berries_13
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 388
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cbebab9a23f8dd90800000000000000
+      internalID: -7072635850459452476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berries_14
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 391
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d21a8655a1f550ec0800000000000000
+      internalID: -3601367760306134739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berries_15
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 393
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f7b60c56c6a2c90800000000000000
+      internalID: -7193818270495178922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berries_16
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 325
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d649a5a5b0f7c4cf0800000000000000
+      internalID: -266698591184448403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berries_17
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 326
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b275b9f674d382710800000000000000
+      internalID: 1668651038965192491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berries_18
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 327
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19ed6075fd000c490800000000000000
+      internalID: -7728176001329996143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berries_19
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 325
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 699a620ef5c54eea0800000000000000
+      internalID: -5844444849567782506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berries_20
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 323
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 805ddd0d157138060800000000000000
+      internalID: 6954427889754166536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berries_21
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 327
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b614dd9d0f3e3bef0800000000000000
+      internalID: -93480543657836181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berries_22
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 326
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c140d01d76cb7e580800000000000000
+      internalID: -8797856192970030052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berries_23
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 325
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a443609f55434190800000000000000
+      internalID: -7979457838023752544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berries_24
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 258
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57f99003e93161dd0800000000000000
+      internalID: -2515801771708145803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berries_25
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 261
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e96878e6e52f9a20800000000000000
+      internalID: 3071215144562878945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berries_26
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 265
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ba0e4690f0003bf0800000000000000
+      internalID: -346776137993680199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berries_27
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 260
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98b34104448714690800000000000000
+      internalID: -7619676860005991543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berries_28
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 262
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb18492c782638930800000000000000
+      internalID: 4144264417335607743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berries_29
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 259
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb7749dc82385a8a0800000000000000
+      internalID: -6294480692909410372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berries_30
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 261
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e05532467fa6f8810800000000000000
+      internalID: 1769750789349397774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berries_31
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 260
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fff0b28ee42da1f00800000000000000
+      internalID: 1088413496307814399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berries_32
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 195
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f91cdd1116b7a8190800000000000000
+      internalID: -7959413734582140513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berries_33
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 194
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc2b4427f94a89f20800000000000000
+      internalID: 3429672120966492875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berries_34
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 200
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c370284e42bd6d0800000000000000
+      internalID: -2964735365840683942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berries_35
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 196
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9deb9416e44da14e0800000000000000
+      internalID: -2010060850562744615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berries_36
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 198
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c644757d40e9fac80800000000000000
+      internalID: -8309249043845397396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berries_37
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 198
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62da3a9fa6437e210800000000000000
+      internalID: 1362115046362295590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berries_38
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 196
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef5f297537cb8cfb0800000000000000
+      internalID: -4627241413546674690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berries_39
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 197
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56346405e574de980800000000000000
+      internalID: -8508065650633718939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berries_40
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 132
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 974df1523db366b80800000000000000
+      internalID: -8401962276766100359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berries_41
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 132
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f794cfe94ce0ff750800000000000000
+      internalID: 6340803038004660607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berries_42
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 135
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c2df64005601ad50800000000000000
+      internalID: 6746680657519301312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berries_43
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 132
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b00c1d9dcda75fed0800000000000000
+      internalID: -2380861739029643253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berries_44
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 132
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db847cb1b87854550800000000000000
+      internalID: 6144466298153158845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berries_45
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 134
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5518da5af7aef9ad0800000000000000
+      internalID: -2693176218182909611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berries_46
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 132
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7609500fdea1a3c70800000000000000
+      internalID: 8951496818588749927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berries_47
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 132
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99a81b3611da26f80800000000000000
+      internalID: -8114733288369583463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berries_48
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 69
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0569c17c86771a4a0800000000000000
+      internalID: -6583849888338110896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berries_49
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 69
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e26284af615478630800000000000000
+      internalID: 3929185164894676526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berries_50
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 68
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1063ed230379c99e0800000000000000
+      internalID: -1613248333237832191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berries_51
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 67
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a75846063adb33c60800000000000000
+      internalID: 7796783889302979962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berries_52
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 70
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b027627db29fb500800000000000000
+      internalID: 414211033107210420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berries_53
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 67
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe60bb55d84f17310800000000000000
+      internalID: 1401169846954821359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berries_54
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 67
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c4c31c66fb214780800000000000000
+      internalID: -8700624667727903551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berries_55
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 71
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c05ab40476dd365f0800000000000000
+      internalID: -764524076192783092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berries_56
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 0
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ead0cbfe9a3ee2ee0800000000000000
+      internalID: -1283838524742955602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berries_57
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 4
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3c782cffd7c35da0800000000000000
+      internalID: -5957198117258888129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berries_58
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 5
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b555166f9f7bdb20800000000000000
+      internalID: 3160259886119736755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berries_59
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 8
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92c730dabbf11a990800000000000000
+      internalID: -7376579823734129623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berries_60
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 3
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6818b3867f6a02bc0800000000000000
+      internalID: -3809861703219576442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berries_61
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 2
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca6380e6802ebd4e0800000000000000
+      internalID: -1955721087328700756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berries_62
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff6c767522a8228e0800000000000000
+      internalID: -1719660227602168065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      berries_0: 2408991836313283690
+      berries_1: 619551235208903269
+      berries_10: -8261821571297728982
+      berries_11: -3726136182130504840
+      berries_12: 4867605247601124903
+      berries_13: -7072635850459452476
+      berries_14: -3601367760306134739
+      berries_15: -7193818270495178922
+      berries_16: -266698591184448403
+      berries_17: 1668651038965192491
+      berries_18: -7728176001329996143
+      berries_19: -5844444849567782506
+      berries_2: -3147416883600750571
+      berries_20: 6954427889754166536
+      berries_21: -93480543657836181
+      berries_22: -8797856192970030052
+      berries_23: -7979457838023752544
+      berries_24: -2515801771708145803
+      berries_25: 3071215144562878945
+      berries_26: -346776137993680199
+      berries_27: -7619676860005991543
+      berries_28: 4144264417335607743
+      berries_29: -6294480692909410372
+      berries_3: -6718223789762634725
+      berries_30: 1769750789349397774
+      berries_31: 1088413496307814399
+      berries_32: -7959413734582140513
+      berries_33: 3429672120966492875
+      berries_34: -2964735365840683942
+      berries_35: -2010060850562744615
+      berries_36: -8309249043845397396
+      berries_37: 1362115046362295590
+      berries_38: -4627241413546674690
+      berries_39: -8508065650633718939
+      berries_4: -7136846464794289902
+      berries_40: -8401962276766100359
+      berries_41: 6340803038004660607
+      berries_42: 6746680657519301312
+      berries_43: -2380861739029643253
+      berries_44: 6144466298153158845
+      berries_45: -2693176218182909611
+      berries_46: 8951496818588749927
+      berries_47: -8114733288369583463
+      berries_48: -6583849888338110896
+      berries_49: 3929185164894676526
+      berries_5: -5034953160489944403
+      berries_50: -1613248333237832191
+      berries_51: 7796783889302979962
+      berries_52: 414211033107210420
+      berries_53: 1401169846954821359
+      berries_54: -8700624667727903551
+      berries_55: -764524076192783092
+      berries_56: -1283838524742955602
+      berries_57: -5957198117258888129
+      berries_58: 3160259886119736755
+      berries_59: -7376579823734129623
+      berries_6: 6891053907433876317
+      berries_60: -3809861703219576442
+      berries_61: -1955721087328700756
+      berries_62: -1719660227602168065
+      berries_7: -865544923933325548
+      berries_8: 5253046480288960806
+      berries_9: 193012697265526318
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
