@@ -2,9 +2,10 @@ using UnityEngine;
 
 public class CleffaBehavior : MonoBehaviour
 {
-    
-    float fullnessVal = 5f; //stat tracking how hungry cleffa is
-    
+
+    public float fullnessVal = 10f; //stat tracking how hungry cleffa is
+    public float sleepinessVal = 1f;
+
     float needsTime; //timer
     public float needsTimeReset; //what we reset the timer to when it goes off
     public float needsTimeStep; //speed the timer goes down
@@ -13,11 +14,17 @@ public class CleffaBehavior : MonoBehaviour
 
     Vector3 targetPos; //position we go to when we move
     bool moving; //tracks if we're moving or not
-    
+    bool sleeping;
+
+    Animator myAnimator;
+
+    Vector2 dir;
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
         needsTime = needsTimeReset; //set the needs timer
+        myAnimator = GetComponent<Animator>();
     }
 
     // Update is called once per frame
@@ -32,20 +39,27 @@ public class CleffaBehavior : MonoBehaviour
         if (moving) //if we're moving
         {
             //set our position to the next step towards our target
-            transform.position = Vector3.MoveTowards(transform.position, targetPos, 2f * Time.deltaTime);
+            transform.position = Vector3.MoveTowards(transform.position, targetPos, 0.5f * Time.deltaTime);
+            if (Vector3.Distance(transform.position, targetPos) < 0.05f) moving = false;
         }
+        //SetAnimation();
     }
 
     //function to handle reduce cleffa's needs
     void IncrementNeeds()
     {
         fullnessVal -= 1; //decrease the fullness stat
+        sleepinessVal -= 1;
         needsTime = needsTimeReset; //reset the needs timer
-        Debug.Log(fullnessVal); //check our fullness value in the console
-        if (fullnessVal <= 0) //if the fullness value has reached 0
+        if (sleepinessVal <= 0) {
+            Debug.Log("sleep");
+            sleeping = true;
+        } else if (fullnessVal <= 0) //if the fullness value has reached 0
         {
             FindFood(); //find the nearest food object
         }
+        UIManager.UpdateSliders();
+        SetAnimation();
     }
 
     void FindFood()
@@ -53,7 +67,7 @@ public class CleffaBehavior : MonoBehaviour
         float dist = 2000f; //setting the initial distance we're checking against
         GameObject closestFood = null; //tracks the nearest food
         //loop through the game manager's food list
-        foreach(GameObject food in myManager.allFood)
+        foreach (GameObject food in myManager.allFood)
         {
             //if this food is closer than the last food we checked
             //(or if the food is closet than the initial value we set dist to
@@ -72,6 +86,26 @@ public class CleffaBehavior : MonoBehaviour
             targetPos = closestFood.transform.position;
             //set moving to true
             moving = true;
+        }
+    }
+
+    void SetAnimation()
+    {
+        dir = (targetPos - transform.position).normalized;
+        myAnimator.SetFloat("xVel", dir.x);
+        myAnimator.SetFloat("yVel", dir.y);
+        if (sleeping)
+        {
+            myAnimator.SetBool("isSleeping", true);
+        }
+        else if (moving)
+        {
+            myAnimator.SetBool("isWalking", true);
+        }
+        else
+        {
+            myAnimator.SetBool("isSleeping", false);
+            myAnimator.SetBool("isWalking", false);
         }
     }
 }
