@@ -4,7 +4,9 @@ public class CleffaBehavior : MonoBehaviour
 {
 
     public float fullnessVal = 10f; //stat tracking how hungry cleffa is
-    public float sleepinessVal = 1f;
+    public float sleepinessVal = 10f;
+    public float hpVal = 10f;
+    public float xpVal = 0f;
 
     float needsTime; //timer
     public float needsTimeReset; //what we reset the timer to when it goes off
