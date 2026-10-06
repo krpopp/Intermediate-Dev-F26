@@ -16,12 +16,15 @@ public class GameManager : MonoBehaviour
     public List<GameObject> allFood = new List<GameObject>();
 
     [SerializeField] List<Transform> spawnPoints = new List<Transform>();
+
+    [SerializeField] List<GameObject> otherPoke = new List<GameObject>();
     
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
         //set the leftMouse action
         leftMouse = InputSystem.actions.FindAction("MouseClick");
+        MakeEnemy();
     }
 
     // Update is called once per frame
@@ -30,8 +33,9 @@ public class GameManager : MonoBehaviour
         //if left mouse was released this frame
         if (leftMouse.WasReleasedThisFrame())
         {
+            CheckHover();
             //create a food
-            MakeFood();
+            //MakeFood();
         }
     }
 
@@ -42,5 +46,31 @@ public class GameManager : MonoBehaviour
         newPos.z = 0; //set the z to 0 so the food is in the camera's view
         //create a new food object and add it to the food list
         allFood.Add(Instantiate(foodObj, newPos, Quaternion.identity)); 
+    }
+
+    void MakeEnemy()
+    {
+        int randSpot = Random.Range(0, spawnPoints.Count);
+        int randPoke = Random.Range(0, otherPoke.Count);
+        Instantiate(otherPoke[randPoke], spawnPoints[randSpot].position, Quaternion.identity);
+    }
+    
+    void CheckHover()
+    {
+        // Create a ray from the camera through the mouse position
+        Vector3 mousePos = Camera.main.ScreenToWorldPoint(Mouse.current.position.ReadValue());
+        Collider2D hit = Physics2D.OverlapPoint(mousePos);
+
+        if (hit != null)
+        {
+            if (hit.transform.gameObject.TryGetComponent<TreeBehavior>(out TreeBehavior treeScript))
+            {
+                if (treeScript.berryReady)
+                {
+                    MakeFood();
+                    treeScript.ResetTree();
+                }
+            }
+        }
     }
 }

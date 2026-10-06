@@ -1,3 +1,4 @@
+using System;
 using UnityEngine;
 
 public class CleffaBehavior : MonoBehaviour
@@ -94,8 +95,9 @@ public class CleffaBehavior : MonoBehaviour
     void SetAnimation()
     {
         Vector2 tempDir = (targetPos - transform.position).normalized;
-        if (tempDir != dir)
+        if (tempDir != dir && moving)
         {
+            dir = tempDir;
             myAnimator.SetFloat("xVel", dir.x);
             myAnimator.SetFloat("yVel", dir.y);
         }
@@ -112,6 +114,21 @@ public class CleffaBehavior : MonoBehaviour
         {
             myAnimator.SetBool("isSleeping", false);
             myAnimator.SetBool("isWalking", false);
+        }
+    }
+
+    void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.gameObject.TryGetComponent<PokeBehavior>(out PokeBehavior otherPoke))
+        {
+            if (otherPoke.myType == PokeBehavior.Types.Dark)
+            {
+                xpVal += 1;
+                Destroy(other.gameObject);
+            } else if (otherPoke.myType == PokeBehavior.Types.Poison)
+            {
+            
+            }
         }
     }
 }
