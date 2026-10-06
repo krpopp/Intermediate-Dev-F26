@@ -93,9 +93,13 @@ public class CleffaBehavior : MonoBehaviour
 
     void SetAnimation()
     {
-        dir = (targetPos - transform.position).normalized;
-        myAnimator.SetFloat("xVel", dir.x);
-        myAnimator.SetFloat("yVel", dir.y);
+        Vector2 tempDir = (targetPos - transform.position).normalized;
+        if (tempDir != dir)
+        {
+            myAnimator.SetFloat("xVel", dir.x);
+            myAnimator.SetFloat("yVel", dir.y);
+        }
+
         if (sleeping)
         {
             myAnimator.SetBool("isSleeping", true);

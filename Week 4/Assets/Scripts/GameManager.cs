@@ -14,6 +14,8 @@ public class GameManager : MonoBehaviour
     //list tracking the food that we've made
     //need to inlude System.Collections.Generic; in the namespaces up top
     public List<GameObject> allFood = new List<GameObject>();
+
+    [SerializeField] List<Transform> spawnPoints = new List<Transform>();
     
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
