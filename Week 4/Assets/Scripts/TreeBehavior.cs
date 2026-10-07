@@ -4,8 +4,8 @@ public class TreeBehavior : MonoBehaviour
 {
     
     float growthTime; //timer
-    public float growthTimeReset; //what we reset the timer to when it goes off
-    public float growthTimeStep; //speed the timer goes down
+    [SerializeField] float growthTimeReset; //what we reset the timer to when it goes off
+    [SerializeField] float growthTimeStep; //speed the timer goes down
 
     int growSize = 0;
 

@@ -11,13 +11,11 @@ public class PokeBehavior : MonoBehaviour
 
     public Types myType;
 
-    Transform target;
+    public Transform target;
 
     Animator myAnimator;
 
     Vector2 dir;
-
-    bool moving = true;
     
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -29,6 +27,7 @@ public class PokeBehavior : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        if(target.name == "Cleffa") CheckOtherTarget();
         transform.position = Vector3.MoveTowards(transform.position, target.position, 0.5f * Time.deltaTime);
         SetAnimation();
     }
@@ -42,13 +41,18 @@ public class PokeBehavior : MonoBehaviour
             myAnimator.SetFloat("xVel", dir.x);
             myAnimator.SetFloat("yVel", dir.y);
         }
-        if (moving)
+    }
+
+    void CheckOtherTarget()
+    {
+        GameObject[] newTargets = GameObject.FindGameObjectsWithTag("Sub");
+        for (int i = 0; i < newTargets.Length; i++)
         {
-            myAnimator.SetBool("isWalking", true);
-        }
-        else
-        {
-            myAnimator.SetBool("isWalking", false);
+            if (!newTargets[i].GetComponent<SubstituteBehavior>().inUse)
+            {
+                target = newTargets[i].transform;
+                target.GetComponent<SubstituteBehavior>().inUse = true;
+            }
         }
     }
 }

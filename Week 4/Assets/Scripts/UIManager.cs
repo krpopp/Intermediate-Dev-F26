@@ -1,5 +1,6 @@
 using UnityEngine;
 using UnityEngine.UI;
+using System.Collections.Generic;
 
 public class UIManager : MonoBehaviour
 {
@@ -10,6 +11,9 @@ public class UIManager : MonoBehaviour
     public static Slider sleepBar;
     public static Slider hpBar;
     public static Slider xpBar;
+
+    [SerializeField] GameObject[] subImgObjects;
+    public static List<Image> subIcons = new List<Image>();
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -23,6 +27,10 @@ public class UIManager : MonoBehaviour
         sleepBar.value = cleffaObj.sleepinessVal / 10;
         hpBar.value = cleffaObj.hpVal / 10;
         xpBar.value = cleffaObj.xpVal / 10;
+        for (int i = 0; i < subImgObjects.Length; i++)
+        {
+            subIcons.Add(subImgObjects[i].GetComponent<Image>());
+        }
     }
 
     // Update is called once per frame
@@ -33,6 +41,13 @@ public class UIManager : MonoBehaviour
     public static void UpdateSliders()
     {
         hungerBar.value = cleffaObj.fullnessVal / 10;
-        sleepBar.value = cleffaObj.fullnessVal / 10;
+        sleepBar.value = cleffaObj.sleepinessVal / 10;
+        hpBar.value = cleffaObj.hpVal / 10;
+        xpBar.value = cleffaObj.xpVal / 10;
+    }
+    
+    public static void UpdateSubs(int subIndex, bool changeTo)
+    {
+        if(subIcons[subIndex] != null) subIcons[subIndex].enabled = changeTo;
     }
 }

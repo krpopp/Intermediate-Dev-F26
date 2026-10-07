@@ -10,8 +10,8 @@ public class CleffaBehavior : MonoBehaviour
     public float xpVal = 0f;
 
     float needsTime; //timer
-    public float needsTimeReset; //what we reset the timer to when it goes off
-    public float needsTimeStep; //speed the timer goes down
+    [SerializeField] float needsTimeReset; //what we reset the timer to when it goes off
+    [SerializeField] float needsTimeStep; //speed the timer goes down
 
     public GameManager myManager; //reference to the game manager script in the scene
 
@@ -52,14 +52,25 @@ public class CleffaBehavior : MonoBehaviour
     void IncrementNeeds()
     {
         fullnessVal -= 1; //decrease the fullness stat
-        sleepinessVal -= 1;
         needsTime = needsTimeReset; //reset the needs timer
         if (sleepinessVal <= 0) {
-            Debug.Log("sleep");
             sleeping = true;
-        } else if (fullnessVal <= 0) //if the fullness value has reached 0
+        } else if (fullnessVal <= 5 && !moving && !sleeping) //if the fullness value has reached 0
         {
             FindFood(); //find the nearest food object
+        }
+
+        if (sleeping)
+        {
+            sleepinessVal += 1;
+            if (sleepinessVal == 10) sleeping = false;
+        } else
+        {
+            sleepinessVal -= 1;
+        }
+        if (hpVal < 10 && sleepinessVal > 5 && fullnessVal > 5)
+        {
+            hpVal += 1;
         }
         UIManager.UpdateSliders();
         SetAnimation();
@@ -89,6 +100,13 @@ public class CleffaBehavior : MonoBehaviour
             targetPos = closestFood.transform.position;
             //set moving to true
             moving = true;
+        }
+        else
+        {
+            if (fullnessVal <= 0)
+            {
+                hpVal -= 1;
+            }
         }
     }
 
@@ -121,14 +139,21 @@ public class CleffaBehavior : MonoBehaviour
     {
         if (other.gameObject.TryGetComponent<PokeBehavior>(out PokeBehavior otherPoke))
         {
-            if (otherPoke.myType == PokeBehavior.Types.Dark)
+            if (otherPoke.myType == PokeBehavior.Types.Dark && otherPoke.target == transform)
             {
                 xpVal += 1;
                 Destroy(other.gameObject);
-            } else if (otherPoke.myType == PokeBehavior.Types.Poison)
+            } else if (otherPoke.myType == PokeBehavior.Types.Poison && otherPoke.target == transform)
             {
-            
+                xpVal += 2;
+                hpVal -= 1;
+                Destroy(other.gameObject);
             }
+        }
+
+        if (other.gameObject.CompareTag("Food"))
+        {
+            other.gameObject.GetComponent<FoodBehavior>().RemoveFood();
         }
     }
 }

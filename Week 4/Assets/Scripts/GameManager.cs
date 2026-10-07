@@ -18,6 +18,13 @@ public class GameManager : MonoBehaviour
     [SerializeField] List<Transform> spawnPoints = new List<Transform>();
 
     [SerializeField] List<GameObject> otherPoke = new List<GameObject>();
+
+    float spawnTime;
+    [SerializeField] float spawnTimeReset;
+    [SerializeField] float spawnTimeStep;
+
+    public static int subReady = 3;
+    [SerializeField] GameObject subObj;
     
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -37,12 +44,20 @@ public class GameManager : MonoBehaviour
             //create a food
             //MakeFood();
         }
+
+        spawnTime -= spawnTimeReset * Time.deltaTime;
+        if (spawnTime <= 0)
+        {
+            MakeEnemy();
+        }
+        Debug.Log(subReady);
     }
 
     void MakeFood()
     {
         //get the mouse's position, translated to the world's space
         Vector3 newPos = Camera.main.ScreenToWorldPoint(Mouse.current.position.ReadValue());
+        newPos.x += 0.2f;
         newPos.z = 0; //set the z to 0 so the food is in the camera's view
         //create a new food object and add it to the food list
         allFood.Add(Instantiate(foodObj, newPos, Quaternion.identity)); 
@@ -53,11 +68,24 @@ public class GameManager : MonoBehaviour
         int randSpot = Random.Range(0, spawnPoints.Count);
         int randPoke = Random.Range(0, otherPoke.Count);
         Instantiate(otherPoke[randPoke], spawnPoints[randSpot].position, Quaternion.identity);
+        spawnTime = spawnTimeReset;
+    }
+
+    void MakeSub()
+    {
+        //get the mouse's position, translated to the world's space
+        Vector3 newPos = Camera.main.ScreenToWorldPoint(Mouse.current.position.ReadValue());
+        newPos.z = 0; //set the z to 0 so the food is in the camera's view
+        GameObject newSub = Instantiate(subObj, newPos, Quaternion.identity);
+        newSub.transform.name = "Substitute";
+        subReady--;
+        newSub.GetComponent<SubstituteBehavior>().index = subReady;
+        UIManager.UpdateSubs(subReady, false);
+        Debug.Log("make");
     }
     
     void CheckHover()
     {
-        // Create a ray from the camera through the mouse position
         Vector3 mousePos = Camera.main.ScreenToWorldPoint(Mouse.current.position.ReadValue());
         Collider2D hit = Physics2D.OverlapPoint(mousePos);
 
@@ -70,6 +98,10 @@ public class GameManager : MonoBehaviour
                     MakeFood();
                     treeScript.ResetTree();
                 }
+            } else if (hit.CompareTag("PlayArea"))
+            {
+                Debug.Log("clicked");
+                if(subReady > 0) MakeSub();
             }
         }
     }
