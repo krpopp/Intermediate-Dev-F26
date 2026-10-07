@@ -13,8 +13,8 @@ public class SubstituteBehavior : MonoBehaviour
         //and destroy ourselves/the enemy
         if (other.CompareTag("Enemy") && other.GetComponent<PokeBehavior>().target == transform)
         {
-            UIManager.UpdateSubs(index, true);
-            GameManager.subReady++;
+            GameObject.Find("Canvas").GetComponent<UIManager>().UpdateSubs(index, true);
+            GameObject.Find("Game Manager").GetComponent<GameManager>().subReady++;
             Destroy(other.gameObject);
             Destroy(gameObject);
         }

@@ -5,15 +5,15 @@ using System.Collections.Generic;
 public class UIManager : MonoBehaviour
 {
 
-    public static CleffaBehavior cleffaObj;
+    public CleffaBehavior cleffaObj;
 
-    public static Slider hungerBar;
-    public static Slider sleepBar;
-    public static Slider hpBar;
-    public static Slider xpBar;
+    public Slider hungerBar;
+    public Slider sleepBar;
+    public Slider hpBar;
+    public Slider xpBar;
 
     [SerializeField] GameObject[] subImgObjects;
-    public static List<Image> subIcons = new List<Image>();
+    public List<Image> subIcons = new List<Image>();
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -38,7 +38,7 @@ public class UIManager : MonoBehaviour
     {
     }
 
-    public static void UpdateSliders()
+    public void UpdateSliders()
     {
         hungerBar.value = cleffaObj.fullnessVal / 10;
         sleepBar.value = cleffaObj.sleepinessVal / 10;
@@ -46,7 +46,7 @@ public class UIManager : MonoBehaviour
         xpBar.value = cleffaObj.xpVal / 10;
     }
     
-    public static void UpdateSubs(int subIndex, bool changeTo)
+    public void UpdateSubs(int subIndex, bool changeTo)
     {
         if(subIcons[subIndex] != null) subIcons[subIndex].enabled = changeTo;
     }

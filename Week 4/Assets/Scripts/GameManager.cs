@@ -26,7 +26,7 @@ public class GameManager : MonoBehaviour
     [SerializeField] float spawnTimeStep;
 
     //number of substitute objects we can make
-    public static int subReady = 3;
+    public int subReady = 3;
     
     [SerializeField] GameObject subObj;
     
@@ -86,7 +86,7 @@ public class GameManager : MonoBehaviour
         //mark that we've used up a substitute and reset the game accordingly
         subReady--;
         newSub.GetComponent<SubstituteBehavior>().index = subReady;
-        UIManager.UpdateSubs(subReady, false);
+        GameObject.Find("Canvas").GetComponent<UIManager>().UpdateSubs(subReady, false);
     }
     
     void CheckHover()

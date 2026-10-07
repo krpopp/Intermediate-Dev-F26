@@ -95,7 +95,7 @@ public class CleffaBehavior : MonoBehaviour
             hpVal += 1;
         }
         //update UI and animation based on the previous steps
-        UIManager.UpdateSliders();
+        GameObject.Find("Canvas").GetComponent<UIManager>().UpdateSliders();
         SetAnimation();
         needsTime = needsTimeReset; 
     }
@@ -169,11 +169,11 @@ public class CleffaBehavior : MonoBehaviour
         //CHANGE: based on what we hit and its typing, adjust our hp and xp
         if (other.gameObject.TryGetComponent<PokeBehavior>(out PokeBehavior otherPoke))
         {
-            if (otherPoke.myType == PokeBehavior.Types.Dark && otherPoke.target == transform)
+            if (otherPoke.myType == 0 && otherPoke.target == transform)
             {
                 xpVal += 1;
                 Destroy(other.gameObject);
-            } else if (otherPoke.myType == PokeBehavior.Types.Poison && otherPoke.target == transform)
+            } else if (otherPoke.myType == 1 && otherPoke.target == transform)
             {
                 xpVal += 2;
                 hpVal -= 1;
@@ -186,7 +186,7 @@ public class CleffaBehavior : MonoBehaviour
         {
             other.gameObject.GetComponent<FoodBehavior>().RemoveFood();
             fullnessVal += 2;
-            UIManager.UpdateSliders();
+            GameObject.Find("Canvas").GetComponent<UIManager>().UpdateSliders();
         }
     }
 }

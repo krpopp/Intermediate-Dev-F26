@@ -3,13 +3,7 @@ using UnityEngine;
 public class PokeBehavior : MonoBehaviour
 {
 
-    public enum Types
-    {
-        Dark,
-        Poison
-    }
-
-    public Types myType;
+    public int myType;
 
     public Transform target;
 
