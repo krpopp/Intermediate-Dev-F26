@@ -1687,6 +1687,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1321853512}
   - component: {fileID: 1321853513}
+  - component: {fileID: 1321853514}
   m_Layer: 5
   m_Name: Sleep
   m_TagString: Untagged
@@ -1742,7 +1743,7 @@ MonoBehaviour:
     m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
     m_PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
     m_SelectedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
-    m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
+    m_DisabledColor: {r: 1, g: 1, b: 1, a: 1}
     m_ColorMultiplier: 1
     m_FadeDuration: 0.1
   m_SpriteState:
@@ -1757,7 +1758,7 @@ MonoBehaviour:
     m_SelectedTrigger: Selected
     m_DisabledTrigger: Disabled
   m_Interactable: 0
-  m_TargetGraphic: {fileID: 79598818}
+  m_TargetGraphic: {fileID: 1188839389}
   m_FillRect: {fileID: 1188839388}
   m_HandleRect: {fileID: 79598817}
   m_Direction: 0
@@ -1768,6 +1769,20 @@ MonoBehaviour:
   m_OnValueChanged:
     m_PersistentCalls:
       m_Calls: []
+--- !u!114 &1321853514
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1321853511}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 71a836e1ac7d148979df93a28f5aa79b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::SliderColors
+  maxColor: {r: 0.1339904, g: 1, b: 0, a: 1}
+  minColor: {r: 1, g: 0, b: 0, a: 1}
 --- !u!1 &1397330299
 GameObject:
   m_ObjectHideFlags: 0
@@ -1987,6 +2002,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1451939007}
   - component: {fileID: 1451939008}
+  - component: {fileID: 1451939009}
   m_Layer: 5
   m_Name: Hunger
   m_TagString: Untagged
@@ -2042,7 +2058,7 @@ MonoBehaviour:
     m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
     m_PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
     m_SelectedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
-    m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
+    m_DisabledColor: {r: 1, g: 1, b: 1, a: 1}
     m_ColorMultiplier: 1
     m_FadeDuration: 0.1
   m_SpriteState:
@@ -2057,7 +2073,7 @@ MonoBehaviour:
     m_SelectedTrigger: Selected
     m_DisabledTrigger: Disabled
   m_Interactable: 0
-  m_TargetGraphic: {fileID: 554380098}
+  m_TargetGraphic: {fileID: 1869446902}
   m_FillRect: {fileID: 1869446901}
   m_HandleRect: {fileID: 554380097}
   m_Direction: 0
@@ -2068,6 +2084,20 @@ MonoBehaviour:
   m_OnValueChanged:
     m_PersistentCalls:
       m_Calls: []
+--- !u!114 &1451939009
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1451939006}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 71a836e1ac7d148979df93a28f5aa79b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::SliderColors
+  maxColor: {r: 0.1339904, g: 1, b: 0, a: 1}
+  minColor: {r: 1, g: 0, b: 0, a: 1}
 --- !u!1 &1502546703
 GameObject:
   m_ObjectHideFlags: 0
@@ -3903,6 +3933,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1606468379}
   - component: {fileID: 1606468380}
+  - component: {fileID: 1606468381}
   m_Layer: 5
   m_Name: HP
   m_TagString: Untagged
@@ -3958,7 +3989,7 @@ MonoBehaviour:
     m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
     m_PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
     m_SelectedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
-    m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
+    m_DisabledColor: {r: 1, g: 1, b: 1, a: 1}
     m_ColorMultiplier: 1
     m_FadeDuration: 0.1
   m_SpriteState:
@@ -3973,7 +4004,7 @@ MonoBehaviour:
     m_SelectedTrigger: Selected
     m_DisabledTrigger: Disabled
   m_Interactable: 0
-  m_TargetGraphic: {fileID: 1621948724}
+  m_TargetGraphic: {fileID: 1568180615}
   m_FillRect: {fileID: 1568180614}
   m_HandleRect: {fileID: 1621948723}
   m_Direction: 0
@@ -3984,6 +4015,20 @@ MonoBehaviour:
   m_OnValueChanged:
     m_PersistentCalls:
       m_Calls: []
+--- !u!114 &1606468381
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1606468378}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 71a836e1ac7d148979df93a28f5aa79b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::SliderColors
+  maxColor: {r: 0.1339904, g: 1, b: 0, a: 1}
+  minColor: {r: 1, g: 0, b: 0, a: 1}
 --- !u!1 &1619096382
 GameObject:
   m_ObjectHideFlags: 0
