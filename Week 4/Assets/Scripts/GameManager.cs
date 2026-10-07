@@ -15,15 +15,19 @@ public class GameManager : MonoBehaviour
     //need to inlude System.Collections.Generic; in the namespaces up top
     public List<GameObject> allFood = new List<GameObject>();
 
+    //list of transforms where other pokemon can spawn
     [SerializeField] List<Transform> spawnPoints = new List<Transform>();
-
+    //list of other pokemon we can spawn
     [SerializeField] List<GameObject> otherPoke = new List<GameObject>();
 
+    //timer for making pokemon
     float spawnTime;
     [SerializeField] float spawnTimeReset;
     [SerializeField] float spawnTimeStep;
 
+    //number of substitute objects we can make
     public static int subReady = 3;
+    
     [SerializeField] GameObject subObj;
     
     // Start is called once before the first execution of Update after the MonoBehaviour is created
@@ -31,7 +35,6 @@ public class GameManager : MonoBehaviour
     {
         //set the leftMouse action
         leftMouse = InputSystem.actions.FindAction("MouseClick");
-        MakeEnemy();
     }
 
     // Update is called once per frame
@@ -41,18 +44,16 @@ public class GameManager : MonoBehaviour
         if (leftMouse.WasReleasedThisFrame())
         {
             CheckHover();
-            //create a food
-            //MakeFood();
         }
-
+        //count down to making another enemy
         spawnTime -= spawnTimeReset * Time.deltaTime;
         if (spawnTime <= 0)
         {
             MakeEnemy();
         }
-        Debug.Log(subReady);
     }
 
+    //create a food near the tree we clicked on
     void MakeFood()
     {
         //get the mouse's position, translated to the world's space
@@ -63,6 +64,7 @@ public class GameManager : MonoBehaviour
         allFood.Add(Instantiate(foodObj, newPos, Quaternion.identity)); 
     }
 
+    //create a new enemy at a random spot and restart the enemy timer
     void MakeEnemy()
     {
         int randSpot = Random.Range(0, spawnPoints.Count);
@@ -71,36 +73,44 @@ public class GameManager : MonoBehaviour
         spawnTime = spawnTimeReset;
     }
 
+    //create a substitute object to distract an enemy
     void MakeSub()
     {
         //get the mouse's position, translated to the world's space
         Vector3 newPos = Camera.main.ScreenToWorldPoint(Mouse.current.position.ReadValue());
-        newPos.z = 0; //set the z to 0 so the food is in the camera's view
+        //set the z to 0 so the substitute is in the camera's view
+        newPos.z = 0; 
+        //make the substitute
         GameObject newSub = Instantiate(subObj, newPos, Quaternion.identity);
         newSub.transform.name = "Substitute";
+        //mark that we've used up a substitute and reset the game accordingly
         subReady--;
         newSub.GetComponent<SubstituteBehavior>().index = subReady;
         UIManager.UpdateSubs(subReady, false);
-        Debug.Log("make");
     }
     
     void CheckHover()
     {
+        //find what we're hovering over
         Vector3 mousePos = Camera.main.ScreenToWorldPoint(Mouse.current.position.ReadValue());
         Collider2D hit = Physics2D.OverlapPoint(mousePos);
 
+        //if we've hovering on something
         if (hit != null)
         {
+            //and if that thing is a tree
             if (hit.transform.gameObject.TryGetComponent<TreeBehavior>(out TreeBehavior treeScript))
             {
+                //and that tree has a berry 
                 if (treeScript.berryReady)
                 {
+                    //make a berry, reset the tree's growth
                     MakeFood();
                     treeScript.ResetTree();
                 }
             } else if (hit.CompareTag("PlayArea"))
             {
-                Debug.Log("clicked");
+                //otherwise, create a substitute
                 if(subReady > 0) MakeSub();
             }
         }

@@ -4,45 +4,57 @@ using UnityEngine;
 public class CleffaBehavior : MonoBehaviour
 {
 
-    public float fullnessVal = 10f; //stat tracking how hungry cleffa is
+    //initial stats
+    public float fullnessVal = 10f; 
     public float sleepinessVal = 10f;
     public float hpVal = 10f;
     public float xpVal = 0f;
 
-    float needsTime; //timer
-    [SerializeField] float needsTimeReset; //what we reset the timer to when it goes off
-    [SerializeField] float needsTimeStep; //speed the timer goes down
+    //timer for incrementing needs
+    float needsTime;
+    [SerializeField] float needsTimeReset; 
+    [SerializeField] float needsTimeStep;
 
-    public GameManager myManager; //reference to the game manager script in the scene
+    //reference to the game manager script in the scene
+    public GameManager myManager; 
 
-    Vector3 targetPos; //position we go to when we move
-    bool moving; //tracks if we're moving or not
-    bool sleeping;
-
-    Animator myAnimator;
-
+    //where we move to and our direction
+    Vector3 targetPos; 
     Vector2 dir;
-
+    
+    //CHANGE: tracking which state we're in
+    bool moving; 
+    bool sleeping;
+    
+    Animator myAnimator;
+    
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        needsTime = needsTimeReset; //set the needs timer
+        //set the needs timer
+        needsTime = needsTimeReset; 
+        
         myAnimator = GetComponent<Animator>();
     }
 
     // Update is called once per frame
     void Update()
     {
-        needsTime -= needsTimeStep * Time.deltaTime; //decrement the needs timer
-        if (needsTime < 0) //if the timer reached 0
+        //decrement the needs timer
+        needsTime -= needsTimeStep * Time.deltaTime;
+        //if the timer reached 0
+        if (needsTime < 0) 
         {
-            IncrementNeeds(); //decrement our cleffa's needs
+            //update our cleffa's needs
+            IncrementNeeds(); 
         }
 
-        if (moving) //if we're moving
+        //if we're moving
+        if (moving) 
         {
             //set our position to the next step towards our target
             transform.position = Vector3.MoveTowards(transform.position, targetPos, 0.5f * Time.deltaTime);
+            //if we reached the target, stop moving
             if (Vector3.Distance(transform.position, targetPos) < 0.05f) moving = false;
         }
         //SetAnimation();
@@ -51,35 +63,50 @@ public class CleffaBehavior : MonoBehaviour
     //function to handle reduce cleffa's needs
     void IncrementNeeds()
     {
-        fullnessVal -= 1; //decrease the fullness stat
-        needsTime = needsTimeReset; //reset the needs timer
+        //if we're not at 0, decrease the fullness value
+        if(fullnessVal > 0) fullnessVal -= 1; 
+        //if sleepiness is 0 or less
         if (sleepinessVal <= 0) {
+            //start sleeping
             sleeping = true;
+            //but if our fullness is low, we're not moving and we're not sleeping
         } else if (fullnessVal <= 5 && !moving && !sleeping) //if the fullness value has reached 0
         {
-            FindFood(); //find the nearest food object
+            //find the nearest food object
+            FindFood();
         }
 
+        //if we're sleeping
         if (sleeping)
         {
+            //improve our sleep stat
             sleepinessVal += 1;
+            //if we've maxed out our sleep stat, stop sleeping
             if (sleepinessVal == 10) sleeping = false;
         } else
         {
+            //otherwise, become sleepier
             sleepinessVal -= 1;
         }
+        //if our hp is less than 10, but our other stats are over half
         if (hpVal < 10 && sleepinessVal > 5 && fullnessVal > 5)
         {
+            //increase our hp stat
             hpVal += 1;
         }
+        //update UI and animation based on the previous steps
         UIManager.UpdateSliders();
         SetAnimation();
+        needsTime = needsTimeReset; 
     }
 
+    //function to find the nearest food in the scene
     void FindFood()
     {
-        float dist = 2000f; //setting the initial distance we're checking against
-        GameObject closestFood = null; //tracks the nearest food
+        //setting the initial distance we're checking against
+        float dist = 2000f;
+        //tracks the nearest food
+        GameObject closestFood = null; 
         //loop through the game manager's food list
         foreach (GameObject food in myManager.allFood)
         {
@@ -103,6 +130,7 @@ public class CleffaBehavior : MonoBehaviour
         }
         else
         {
+            //if we didn't find a food and our fullness is less than 0, decrease our hp
             if (fullnessVal <= 0)
             {
                 hpVal -= 1;
@@ -110,6 +138,7 @@ public class CleffaBehavior : MonoBehaviour
         }
     }
 
+    //change our animation based on our current state and direction
     void SetAnimation()
     {
         Vector2 tempDir = (targetPos - transform.position).normalized;
@@ -134,9 +163,10 @@ public class CleffaBehavior : MonoBehaviour
             myAnimator.SetBool("isWalking", false);
         }
     }
-
+    
     void OnTriggerEnter2D(Collider2D other)
     {
+        //CHANGE: based on what we hit and its typing, adjust our hp and xp
         if (other.gameObject.TryGetComponent<PokeBehavior>(out PokeBehavior otherPoke))
         {
             if (otherPoke.myType == PokeBehavior.Types.Dark && otherPoke.target == transform)
@@ -151,9 +181,12 @@ public class CleffaBehavior : MonoBehaviour
             }
         }
 
+        //if we hit the food, eat the food
         if (other.gameObject.CompareTag("Food"))
         {
             other.gameObject.GetComponent<FoodBehavior>().RemoveFood();
+            fullnessVal += 2;
+            UIManager.UpdateSliders();
         }
     }
 }

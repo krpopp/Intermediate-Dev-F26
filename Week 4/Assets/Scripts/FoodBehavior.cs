@@ -3,18 +3,14 @@ using UnityEngine;
 public class FoodBehavior : MonoBehaviour
 {
 
+    //how long a berry lives
     [SerializeField] float lifeTime;
     [SerializeField] float lifeTimeStep;
     
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
-    {
-        
-    }
-
     // Update is called once per frame
     void Update()
     {
+        //count down to our death
         lifeTime -= lifeTimeStep * Time.deltaTime;
         if (lifeTime <= 0)
         {
@@ -22,6 +18,7 @@ public class FoodBehavior : MonoBehaviour
         }
     }
 
+    //remove the food from the food list and destroy myself
     public void RemoveFood()
     {
         GameObject.Find("Game Manager").GetComponent<GameManager>().allFood.Remove(gameObject);
