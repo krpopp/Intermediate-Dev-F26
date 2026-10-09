@@ -22,18 +22,23 @@ public class CleffaBehavior : MonoBehaviour
     Vector3 targetPos; 
     Vector2 dir;
     
-    //CHANGE: tracking which state we're in
-    bool moving; 
-    bool sleeping;
-    
     Animator myAnimator;
+
+    enum States
+    {
+        Idle,
+        Moving,
+        Sleeping,
+        Eating
+    }
+
+    States state = States.Idle;
     
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
         //set the needs timer
         needsTime = needsTimeReset; 
-        
         myAnimator = GetComponent<Animator>();
     }
 
@@ -46,58 +51,93 @@ public class CleffaBehavior : MonoBehaviour
         if (needsTime < 0) 
         {
             //update our cleffa's needs
-            IncrementNeeds(); 
+            IncrementNeeds();
+            CheckNeeds();
         }
+        RunState();
+        GameObject.Find("Canvas").GetComponent<UIManager>().UpdateSliders();
+    }
 
-        //if we're moving
-        if (moving) 
+    void RunState()
+    {
+        switch (state)
         {
-            //set our position to the next step towards our target
-            transform.position = Vector3.MoveTowards(transform.position, targetPos, 0.5f * Time.deltaTime);
-            //if we reached the target, stop moving
-            if (Vector3.Distance(transform.position, targetPos) < 0.05f) moving = false;
+            case States.Idle:
+                break;
+            case States.Moving:
+                //set our position to the next step towards our target
+                transform.position = Vector3.MoveTowards(transform.position, targetPos, 0.5f * Time.deltaTime);
+                //if we reached the target, stop moving
+                if (Vector3.Distance(transform.position, targetPos) < 0.05f) ChangeState(States.Idle);
+                break;
+            case States.Sleeping:
+                break;
         }
-        //SetAnimation();
+    }
+
+    void ChangeState(States newState)
+    {
+        switch (newState)
+        {
+            case States.Idle:
+                myAnimator.SetBool("isSleeping", false);
+                myAnimator.SetBool("isWalking", false);
+                dir = new Vector2(0,-1);
+                break;
+            case States.Moving:
+                myAnimator.SetBool("isSleeping", false);
+                myAnimator.SetBool("isWalking", true);
+                break;
+            case States.Sleeping:
+                myAnimator.SetBool("isSleeping", true);
+                myAnimator.SetBool("isWalking", false);
+                break;
+        }
+        state = newState;
+        SetAnimationDirection();
     }
 
     //function to handle reduce cleffa's needs
     void IncrementNeeds()
     {
-        //if we're not at 0, decrease the fullness value
-        if(fullnessVal > 0) fullnessVal -= 1; 
-        //if sleepiness is 0 or less
-        if (sleepinessVal <= 0) {
-            //start sleeping
-            sleeping = true;
-            //but if our fullness is low, we're not moving and we're not sleeping
-        } else if (fullnessVal <= 5 && !moving && !sleeping) //if the fullness value has reached 0
-        {
-            //find the nearest food object
-            FindFood();
-        }
 
-        //if we're sleeping
-        if (sleeping)
+        switch (state)
         {
-            //improve our sleep stat
-            sleepinessVal += 1;
-            //if we've maxed out our sleep stat, stop sleeping
-            if (sleepinessVal == 10) sleeping = false;
-        } else
-        {
-            //otherwise, become sleepier
-            sleepinessVal -= 1;
+            case States.Idle:
+            case States.Moving:
+                if (fullnessVal > 0) fullnessVal -= 1;
+                else if(fullnessVal <= 0) hpVal -= 1;
+                if (sleepinessVal > 0) sleepinessVal -= 1;
+                break;
+            case States.Sleeping:
+                if(sleepinessVal < 10) sleepinessVal += 1;
+                break;
         }
+        
         //if our hp is less than 10, but our other stats are over half
         if (hpVal < 10 && sleepinessVal > 5 && fullnessVal > 5)
         {
             //increase our hp stat
             hpVal += 1;
         }
-        //update UI and animation based on the previous steps
-        GameObject.Find("Canvas").GetComponent<UIManager>().UpdateSliders();
-        SetAnimation();
+        
         needsTime = needsTimeReset; 
+    }
+
+    void CheckNeeds()
+    {
+        switch (state)
+        {
+            case States.Idle:
+                if(sleepinessVal <= 0) ChangeState(States.Sleeping);
+                else if(fullnessVal <= 5) FindFood();
+                break;
+            case States.Moving:
+                break;
+            case States.Sleeping:
+                if(sleepinessVal == 0) ChangeState(States.Idle);
+                break;
+        }
     }
 
     //function to find the nearest food in the scene
@@ -125,55 +165,32 @@ public class CleffaBehavior : MonoBehaviour
         {
             //set the target position to that food's position
             targetPos = closestFood.transform.position;
-            //set moving to true
-            moving = true;
-        }
-        else
-        {
-            //if we didn't find a food and our fullness is less than 0, decrease our hp
-            if (fullnessVal <= 0)
-            {
-                hpVal -= 1;
-            }
+            ChangeState(States.Moving);
         }
     }
 
     //change our animation based on our current state and direction
-    void SetAnimation()
+    void SetAnimationDirection()
     {
         Vector2 tempDir = (targetPos - transform.position).normalized;
-        if (tempDir != dir && moving)
+        if (tempDir != dir)
         {
             dir = tempDir;
             myAnimator.SetFloat("xVel", dir.x);
             myAnimator.SetFloat("yVel", dir.y);
         }
-
-        if (sleeping)
-        {
-            myAnimator.SetBool("isSleeping", true);
-        }
-        else if (moving)
-        {
-            myAnimator.SetBool("isWalking", true);
-        }
-        else
-        {
-            myAnimator.SetBool("isSleeping", false);
-            myAnimator.SetBool("isWalking", false);
-        }
     }
     
     void OnTriggerEnter2D(Collider2D other)
     {
-        //CHANGE: based on what we hit and its typing, adjust our hp and xp
+        //based on what we hit and its typing, adjust our hp and xp
         if (other.gameObject.TryGetComponent<PokeBehavior>(out PokeBehavior otherPoke))
         {
-            if (otherPoke.myType == 0 && otherPoke.target == transform)
+            if (otherPoke.type == PokeBehavior.Type.Dark && otherPoke.target == transform)
             {
                 xpVal += 1;
                 Destroy(other.gameObject);
-            } else if (otherPoke.myType == 1 && otherPoke.target == transform)
+            } else if (otherPoke.type == PokeBehavior.Type.Poison && otherPoke.target == transform)
             {
                 xpVal += 2;
                 hpVal -= 1;
@@ -186,7 +203,6 @@ public class CleffaBehavior : MonoBehaviour
         {
             other.gameObject.GetComponent<FoodBehavior>().RemoveFood();
             fullnessVal += 2;
-            GameObject.Find("Canvas").GetComponent<UIManager>().UpdateSliders();
         }
     }
 }

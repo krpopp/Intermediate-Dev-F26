@@ -10,6 +10,14 @@ public class PokeBehavior : MonoBehaviour
     Animator myAnimator;
 
     Vector2 dir;
+
+    public enum Type
+    {
+        Dark,
+        Poison
+    }
+
+    public Type type;
     
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()

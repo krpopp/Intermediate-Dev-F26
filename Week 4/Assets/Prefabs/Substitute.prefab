@@ -108,6 +108,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SubstituteBehavior
   inUse: 0
   index: -1
+  dieTime: 2
+  dieTimeStep: 0.5
 --- !u!61 &194316252200136940
 BoxCollider2D:
   m_ObjectHideFlags: 0

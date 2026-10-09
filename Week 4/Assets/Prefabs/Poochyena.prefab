@@ -87,7 +87,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_MaskInteraction: 0
+  m_MaskInteraction: 1
   m_Sprite: {fileID: -5152376934271921680, guid: 49ce9b4f97f6d4b709bdee963abd071a, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -133,6 +133,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PoochBehavior
   myType: 0
+  target: {fileID: 0}
+  type: 0
 --- !u!61 &2577195080416998223
 BoxCollider2D:
   m_ObjectHideFlags: 0

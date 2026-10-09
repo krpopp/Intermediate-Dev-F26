@@ -108,11 +108,11 @@ public class GameManager : MonoBehaviour
                     MakeFood();
                     treeScript.ResetTree();
                 }
-            } else if (hit.CompareTag("PlayArea"))
-            {
-                //otherwise, create a substitute
-                if(subReady > 0) MakeSub();
-            }
+            } 
+        }
+        else
+        {
+            if(subReady > 0) MakeSub();
         }
     }
 }

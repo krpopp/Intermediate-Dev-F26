@@ -175,3 +175,5 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PokeBehavior
   myType: 1
+  target: {fileID: 0}
+  type: 0

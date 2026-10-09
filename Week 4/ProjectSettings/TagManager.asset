@@ -5,9 +5,9 @@ TagManager:
   serializedVersion: 3
   tags:
   - Food
-  - PlayArea
   - Sub
   - Enemy
+  - Out
   layers:
   - Default
   - TransparentFX
