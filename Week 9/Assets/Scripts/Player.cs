@@ -27,6 +27,8 @@ public class Player : MonoBehaviour
     
     //tracks if we're on the ground layer or not
     private bool onGround;
+
+    [SerializeField] private ParticleSystem myDust;
     
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -70,5 +72,12 @@ public class Player : MonoBehaviour
         myBody.linearVelocity = newVelocity;
     }
 
-   
+    private void OnCollisionEnter2D(Collision2D other)
+    {
+        if (myBody.linearVelocityY <= 0 && other.gameObject.tag == "Ground")
+        {
+            CameraShake.ShakeScreen(20f);
+            myDust.Play();
+        }
+    }
 }
