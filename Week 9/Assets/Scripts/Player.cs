@@ -53,7 +53,7 @@ public class Player : MonoBehaviour
         newVelocity.x = inputForce.x * speed;
         
         //if we pressed the up input and the player is on the ground
-        if (inputForce.y > 0 && onGround)
+        if (inputForce.y > 0 && onGround && myBody.linearVelocity.y == 0) 
         {
             //set the y velocity to the vertical input direction, multiplied by the jump power
             newVelocity.y = inputForce.y * jumpPower;
